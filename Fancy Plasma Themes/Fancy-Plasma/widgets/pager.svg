@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="50"
+   height="50"
+   id="svg11324"
+   sodipodi:docname="pager.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="11.313708"
+     inkscape:cx="27.886525"
+     inkscape:cy="27.400389"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11324"
+     inkscape:lockguides="false"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid864" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3500">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11327" />
+  <rect
+     width="1"
+     height="0.99414408"
+     x="5.3609986"
+     y="11.808"
+     id="hint-stretch-borders"
+     style="opacity:0.01;fill:#008080;fill-opacity:1;stroke:none" />
+  <g
+     id="normal-bottomleft"
+     transform="translate(5.300052,14.4)"
+     style="opacity:0.4">
+    <path
+       d="m 26,13 v 1 h 1 v -1 z"
+       id="86868"
+       style="fill:#090c10;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-bottom"
+     transform="translate(5.300052,14.4)"
+     style="opacity:0.4">
+    <rect
+       width="5"
+       height="1"
+       x="27"
+       y="13"
+       id="65756756"
+       style="fill:#090c10;fill-opacity:1;stroke:none" />
+  </g>
+  <path
+     d="m 31.300052,21.4 v 1 h 1 v -1 z"
+     id="normal-topleft"
+     style="fill:#090c10;fill-opacity:1;stroke:none;opacity:0.4" />
+  <path
+     d="m 37.300052,21.4 v 1 h 1 v -1 z"
+     id="normal-topright"
+     style="fill:#090c10;fill-opacity:1;stroke:none;opacity:0.4" />
+  <path
+     d="m 32.300052,21.4 v 1 h 5 v -1 z"
+     id="normal-top"
+     style="fill:#090c10;fill-opacity:1;stroke:none;opacity:0.4" />
+  <path
+     d="m 11.629,22.400009 v 4.999999 h 1 v -4.999999 z"
+     id="hover-left"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 18.629,22.400009 v 4.999999 h -1 v -4.999999 z"
+     id="hover-right"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 11.629,27.400009 v 1 h 1 v -1 z"
+     id="hover-bottomleft"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 17.629,27.400009 v 1 h 1 v -1 z"
+     id="hover-bottomright"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <rect
+     width="5"
+     height="1"
+     x="12.629023"
+     y="27.400021"
+     id="hover-bottom"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 11.629,21.400009 v 1 h 1 v -1 z"
+     id="hover-topleft"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 17.629,21.400009 v 1 h 1 v -1 z"
+     id="hover-topright"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 12.629,21.400009 v 1 h 5 v -1 z"
+     id="hover-top"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 21.629,22.400009 v 4.999999 h 1 v -4.999999 z"
+     id="active-left"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 28.629,22.400009 v 4.999999 h -1 v -4.999999 z"
+     id="active-right"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 21.629,27.400009 v 1 h 1 v -1 z"
+     id="active-bottomleft"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 27.629,27.400009 v 1 h 1 v -1 z"
+     id="active-bottomright"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <rect
+     width="5"
+     height="1"
+     x="22.628996"
+     y="27.400021"
+     id="active-bottom"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 21.629,21.400009 v 1 h 1 v -1 z"
+     id="active-topleft"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 27.629,21.400009 v 1 h 1 v -1 z"
+     id="active-topright"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <path
+     d="m 22.629,21.400009 v 1 h 5 v -1 z"
+     id="active-top"
+     style="fill:#090c10;fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(5.3148282,14.400339)"
+     id="normal-center"
+     style="opacity:0.4">
+    <rect
+       width="5.010838"
+       height="5.0000005"
+       x="26.974386"
+       y="7.9996605"
+       id="ergrerg"
+       style="opacity:0.00100002;fill:#00adcf;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-bottomright"
+     transform="translate(5.300052,14.4)"
+     style="opacity:0.4">
+    <path
+       d="m 32,13 v 1 h 1 v -1 z"
+       id="8979879"
+       style="fill:#090c10;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     id="normal-right"
+     transform="translate(5.300052,14.4)"
+     style="opacity:0.4">
+    <path
+       d="m 33,8 v 4.999999 H 32 V 8 Z"
+       id="nofh"
+       style="fill:#090c10;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="translate(-0.699948,14.4)"
+     id="normal-left"
+     style="opacity:0.4">
+    <path
+       d="m 33,8 v 4.999999 H 32 V 8 Z"
+       id="path6648"
+       style="fill:#090c10;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     transform="matrix(1,0,0,1.0088634,-14.345387,14.285128)"
+     id="hover-center"
+     style="fill:#5599ff">
+    <rect
+       width="5.010838"
+       height="4.9560733"
+       x="26.974386"
+       y="8.0435877"
+       id="rect6882"
+       style="opacity:0.5;fill:#003d98;fill-opacity:1;stroke:none" />
+  </g>
+  <rect
+     width="5"
+     height="5"
+     x="22.628996"
+     y="22.400026"
+     id="active-center"
+     style="opacity:0.4;fill:#1a89a2;fill-opacity:1;stroke:none" />
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="manjaro.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="manjaro-settings-manager">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="4.494629e-07"
+       y="6.0302739e-08"
+       id="rect7" />
+    <path
+       style="fill:#1a89a2;fill-opacity:1"
+       d="M 4.787109,4 C 4.074824,4 3.5,4.5748236 3.5,5.2871094 V 26.712891 C 3.5,27.425177 4.106322,27.790527 4.787109,28 H 10.5 V 11 h 9 V 4 Z M 21.5,4 v 24 h 5.712891 C 27.925178,28 28.5,27.425177 28.5,26.712891 V 5.2871094 C 28.5,4.5748236 27.925178,4 27.212891,4 Z M 4.787109,5 H 18.5 v 5 h -8 a 1.0001,1.0001 0 0 0 -1,1 V 27 H 4.986328 C 4.789747,26.92704 4.603695,26.842309 4.544922,26.791016 c -0.0715,-0.0624 -0.04492,-0.0057 -0.04492,-0.07813 V 5.2871094 C 4.500002,5.112832 4.612834,5 4.787111,5 Z M 22.5,5 h 4.712891 C 27.38717,5 27.5,5.1128305 27.5,5.2871094 V 26.712891 C 27.5,26.88717 27.387171,27 27.212891,27 H 22.5 Z m -10,8 v 15 h 7 V 13 Z m 1,1 h 5 v 13 h -5 z"
+       id="path9" />
+  </g>
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="6.9384855"
+     inkscape:cx="-8.1429874"
+     inkscape:cy="19.456696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       originx="-4.494629e-07"
+       originy="-6.0302739e-08" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-manjaro-settings-manager"
+     transform="translate(-33.463779,10.001957)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="-4.494629e-07"
+       y="-6.0302739e-08"
+       id="rect2" />
+    <path
+       style="fill:#1a89a2;fill-opacity:1;stroke-width:0.666667"
+       d="M 3.5580727,3 C 3.083216,3 2.7,3.383216 2.7,3.858073 V 18.141927 C 2.7,18.616785 3.1042147,18.860351 3.5580727,19 h 3.808594 V 7.666667 H 13.366667 V 3 Z M 14.7,3 v 16 h 3.808594 c 0.474858,0 0.858073,-0.383215 0.858073,-0.858073 V 3.858073 C 19.366667,3.383216 18.983452,3 18.508594,3 Z M 3.5580727,3.666667 H 12.7 V 7 H 7.3666667 A 0.66673333,0.66673333 0 0 0 6.7,7.666667 V 18.333333 H 3.6908853 c -0.131054,-0.04864 -0.2550886,-0.105127 -0.2942706,-0.139322 -0.047667,-0.0416 -0.029947,-0.0038 -0.029947,-0.05209 V 3.858073 c 0,-0.116185 0.075221,-0.191406 0.191405,-0.191406 z m 11.8085943,0 h 3.141927 c 0.116186,0 0.191406,0.07522 0.191406,0.191406 v 14.283854 c 0,0.116186 -0.07522,0.191406 -0.191406,0.191406 H 15.366667 Z M 8.7,9 v 10 h 4.666667 V 9 Z M 9.3666667,9.666667 H 12.7 v 8.666666 H 9.3666667 Z"
+       id="path9-3" />
+  </g>
+</svg>
