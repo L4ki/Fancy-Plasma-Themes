@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="system-save-session.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -34,7 +34,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1016"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="19.625"
@@ -43,18 +43,19 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
   <defs
      id="defs3051">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient839">
       <stop
-         style="stop-color:#de87cd;stop-opacity:1"
+         style="stop-color:#008080;stop-opacity:1"
          offset="0"
          id="stop835" />
       <stop
-         style="stop-color:#ffccaa;stop-opacity:1"
+         style="stop-color:#00e5e5;stop-opacity:1"
          offset="1"
          id="stop837" />
     </linearGradient>
@@ -69,10 +70,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient839"
        id="linearGradient841"
-       x1="4"
-       y1="16"
-       x2="28"
-       y2="16"
+       x1="4.1527176"
+       y1="15.976361"
+       x2="28.133295"
+       y2="16.145901"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
