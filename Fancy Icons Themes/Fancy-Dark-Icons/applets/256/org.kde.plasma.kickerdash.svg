@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="org.kde.plasma.kickerdash.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="org.kde.plasma.kickerdash.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,17 +34,18 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="2.6074563"
-     inkscape:cx="65.668873"
-     inkscape:cy="117.63506"
+     inkscape:cx="65.772914"
+     inkscape:cy="117.73927"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs4">
     <style
@@ -829,7 +829,7 @@
      class="ColorScheme-ButtonText"
      id="rect4240" />
   <path
-     style="fill:#2e3440;fill-opacity:1;stroke:none"
+     style="fill:#23252f;fill-opacity:1;stroke:none"
      d="m 16,12 224,0 c 2.216,0 4,1.784 4,4 l 0,224 c 0,2.216 -1.784,4 -4,4 l -224,0 c -2.216,0 -4,-1.784 -4,-4 L 12,16 c 0,-2.216 1.784,-4 4,-4 z"
      class="ColorScheme-Background"
      id="rect4238" />
@@ -841,7 +841,7 @@
      height="35.999992"
      width="216"
      id="rect5114-3-4-2-9"
-     style="opacity:1;fill:#5d8aa8;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+     style="opacity:1;fill:#00cccc;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
   <rect
      ry="0"
      rx="0"
@@ -850,7 +850,7 @@
      height="33.999943"
      width="214"
      id="rect5114-3-4-5"
-     style="fill:#191c29;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
+     style="fill:#23252f;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2" />
   <g
      inkscape:label="Capa 1"
      id="layer1-8"

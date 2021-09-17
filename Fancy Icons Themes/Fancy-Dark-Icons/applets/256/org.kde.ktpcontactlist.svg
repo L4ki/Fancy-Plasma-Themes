@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,11 +34,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="1.84375"
-     inkscape:cx="1.0847458"
+     inkscape:cx="1.3559322"
      inkscape:cy="85.152542"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -226,13 +225,13 @@
      class="ColorScheme-ButtonText"
      id="rect4240" />
   <path
-     style="fill:#29303d;fill-opacity:1;stroke:none"
+     style="fill:#23252f;fill-opacity:1;stroke:none"
      d="m 16,12 224,0 c 2.216,0 4,1.784 4,4 l 0,224 c 0,2.216 -1.784,4 -4,4 l -224,0 c -2.216,0 -4,-1.784 -4,-4 L 12,16 c 0,-2.216 1.784,-4 4,-4 z"
      class="ColorScheme-Background"
      id="rect4238" />
   <rect
      class="ColorScheme-Text"
-     style="opacity:1;fill:#5d8aa8;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+     style="opacity:0.5;fill:#00cccc;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
      id="rect5114-3-4-2"
      width="216"
      height="35.999992"
@@ -242,7 +241,7 @@
      ry="0" />
   <rect
      class="ColorScheme-ViewBackground"
-     style="fill:#1f252f;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
+     style="fill:#23252f;fill-opacity:1;stroke:none;stroke-width:0.92819148;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2"
      id="rect5114-3-4"
      width="214"
      height="33.999943"
