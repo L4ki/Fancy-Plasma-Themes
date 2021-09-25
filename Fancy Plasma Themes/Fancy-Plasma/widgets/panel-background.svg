@@ -92,7 +92,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.563602"
      inkscape:cx="58.508217"
-     inkscape:cy="122.0675"
+     inkscape:cy="99.618308"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -421,7 +421,7 @@
          height="32"
          width="1.0000226"
          id="rect907"
-         style="opacity:0.5;fill:#050d1b;fill-opacity:1;stroke:none;stroke-width:0.408253"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1;stroke:none;stroke-width:0.408253"
          transform="matrix(0,-1,-1,0,0,0)" />
     </g>
     <g
@@ -459,7 +459,7 @@
          style="fill:none;fill-opacity:1"
          transform="scale(-1,1)" />
       <path
-         style="opacity:0.5;fill:#050d1b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 76,5 c -3.323987,0 -6,2.6760127 -6,6 v 1 h 1 v -1 c 0,-2.7699873 2.230013,-5 5,-5 h 1 V 5 Z"
          transform="translate(-58,904.36218)"
          id="path898" />
@@ -493,7 +493,7 @@
          y="-50.999985" />
       <rect
          transform="rotate(90)"
-         style="opacity:0.5;fill:#050d1b;fill-opacity:1;stroke:none;stroke-width:0.408244"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1;stroke:none;stroke-width:0.408244"
          id="rect915"
          width="0.99997741"
          height="32"
@@ -529,7 +529,7 @@
          y="916.36218" />
       <rect
          transform="scale(-1,1)"
-         style="opacity:0.5;fill:#050d1b;fill-opacity:1;stroke:none;stroke-width:0.408249"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1;stroke:none;stroke-width:0.408249"
          id="rect903"
          width="1.0000019"
          height="32"
@@ -566,7 +566,7 @@
          height="32"
          width="1.0000153"
          id="rect911"
-         style="opacity:0.5;fill:#050d1b;fill-opacity:1;stroke:none;stroke-width:0.408251" />
+         style="opacity:0.5;fill:#20212b;fill-opacity:1;stroke:none;stroke-width:0.408251" />
     </g>
     <g
        id="shadow-center"
