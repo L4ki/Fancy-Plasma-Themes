@@ -18,7 +18,8 @@
   <defs
      id="defs4">
     <style
-       type="text/css" />
+       type="text/css"
+       id="style2" />
     <linearGradient
        id="linearGradient1100"
        inkscape:collect="always">
@@ -546,7 +547,7 @@
          style="opacity:0.6;fill:url(#linearGradient953);fill-opacity:1;stroke:none;stroke-width:1.41421354" />
       <rect
          class="ColorScheme-Background"
-         style="opacity:0.5;fill:currentColor"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1"
          id="rect1019"
          width="1.0000004"
          height="29.000013"
@@ -625,7 +626,7 @@
          class="ColorScheme-Background" />
       <path
          class="ColorScheme-Background"
-         style="fill:currentColor;fill-opacity:1;opacity:0.5"
+         style="fill:#20212b;fill-opacity:1;opacity:0.5"
          sodipodi:nodetypes="ccccccssc"
          transform="translate(0,904.36218)"
          d="m 106,7.000024 v 1 L 108,8 c 2.23663,0 4,1.77972 4,4 v 2.000048 l 1,-2.4e-5 V 12 c 0,-2.74976 -2.23289,-5 -5,-5 z"
@@ -667,7 +668,7 @@
          d="m 112,948.36218 c 0,2.23664 -1.77972,4 -4,4 h -1 v 14 h 19 v -18 z"
          style="opacity:0.6;fill:url(#radialGradient1050);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.28571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:currentColor;fill-opacity:1;opacity:0.5"
+         style="fill:#20212b;fill-opacity:1;opacity:0.5"
          sodipodi:nodetypes="ccccccssc"
          d="m 112.99999,946.3622 h -1 l 2e-5,2 c 0,2.23663 -1.77972,4 -4,4 h -2.00005 l 3e-5,1 h 2.00002 c 2.74976,0 5,-2.23289 5,-5 z"
          id="path999-5"
@@ -693,7 +694,7 @@
          y="-106" />
       <rect
          class="ColorScheme-Background"
-         style="opacity:0.5;fill:currentColor"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1"
          id="rect1019-3"
          width="1.0000004"
          height="28.000013"
@@ -726,7 +727,7 @@
          height="28.000013"
          width="1.0000004"
          id="rect1019-3-5"
-         style="opacity:0.5;fill:currentColor"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1"
          class="ColorScheme-Background" />
     </g>
     <g
@@ -754,7 +755,7 @@
          height="28.000013"
          width="1.0000004"
          id="rect1019-3-6"
-         style="opacity:0.5;fill:currentColor"
+         style="opacity:0.5;fill:#20212b;fill-opacity:1"
          class="ColorScheme-Background" />
     </g>
     <g
@@ -782,7 +783,7 @@
          class="ColorScheme-Background" />
       <path
          class="ColorScheme-Background"
-         style="fill:currentColor;fill-opacity:1;opacity:0.5"
+         style="fill:#20212b;fill-opacity:1;opacity:0.5"
          sodipodi:nodetypes="ccccccssc"
          d="m 71.00001,918.3622 h 1 l -2e-5,-2 c 0,-2.23663 1.77972,-4 4,-4 h 2.00005 l -3e-5,-1 h -2.00002 c -2.74976,0 -5,2.23289 -5,5 z"
          id="path999-2" />
@@ -813,7 +814,7 @@
          transform="rotate(90)" />
       <path
          class="ColorScheme-Background"
-         style="fill:currentColor;fill-opacity:1;opacity:0.5"
+         style="fill:#20212b;fill-opacity:1;opacity:0.5"
          sodipodi:nodetypes="ccccccssc"
          d="m 78,953.36218 v -1 l -2,2e-5 c -2.23663,0 -4,-1.77972 -4,-4 v -2.00005 l -1,3e-5 v 2.00002 c 0,2.74976 2.23289,5 5,5 z"
          id="path999-9" />
