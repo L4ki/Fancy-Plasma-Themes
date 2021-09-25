@@ -23,15 +23,15 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6693107"
-     inkscape:cx="76.717406"
-     inkscape:cy="39.244428"
+     inkscape:zoom="5.189189"
+     inkscape:cx="89.898442"
+     inkscape:cy="24.473959"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="148px"
@@ -456,7 +456,7 @@
          inkscape:connector-curvature="0"
          id="path2667"
          d="M 4,127.0003 V 129 h 58 v -1.9997 c -0.02169,-6.7e-4 -0.04064,0 -0.0625,0 H 4.0625 c -0.021861,0 -0.040806,-6.7e-4 -0.0625,0 z"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1;stroke-width:0.999926"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1;stroke-width:0.999926"
          class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"
@@ -478,7 +478,7 @@
          inkscape:connector-curvature="0"
          id="path2679"
          d="m 62,129 v 13 h 1.999703 c 6.68e-4,-0.0217 0,-0.0406 0,-0.0625 v -12.875 c 0,-0.0219 6.68e-4,-0.0408 0,-0.0625 z"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1;stroke-width:0.999926"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1;stroke-width:0.999926"
          class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"
@@ -501,7 +501,7 @@
          inkscape:connector-curvature="0"
          id="path2691"
          d="M 4,142.0003 V 144 c 0.021694,6.7e-4 0.040639,0 0.0625,0 h 57.875 c 0.02186,0 0.04081,6.7e-4 0.0625,0 v -1.9997 z"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1;stroke-width:0.999926"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1;stroke-width:0.999926"
          class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"
@@ -524,7 +524,7 @@
          inkscape:connector-curvature="0"
          id="path2697"
          d="m 54,90 c 0.06722,2.1827 1.817292,3.93278 4,4 v -4 z"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1"
          class="ColorScheme-Background" />
       <path
          style="opacity:0.4;fill:#30364f;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -551,7 +551,7 @@
            inkscape:connector-curvature="0"
            id="path11378"
            d="m 164,987.7235 v 16 h 125 v -16 z"
-           style="opacity:0.8;fill:#1f222d;fill-opacity:1"
+           style="opacity:0.8;fill:#20212b;fill-opacity:1"
            class="ColorScheme-Background" />
       </g>
     </g>
@@ -560,7 +560,7 @@
        id="topright">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1"
          d="m 4,127 c -1.0913544,0.0336 -1.9663917,0.90865 -2,2 h 2 z"
          id="path5336"
          class="ColorScheme-Background" />
@@ -608,7 +608,7 @@
          inkscape:connector-curvature="0"
          id="path4234"
          d="m 4,127 c -1.0913544,0.0336 -1.9663917,0.90865 -2,2 h 2 z"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1"
          class="ColorScheme-Background" />
       <path
          inkscape:connector-curvature="0"
@@ -631,7 +631,7 @@
        id="left">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1;stroke-width:0.999926"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1;stroke-width:0.999926"
          d="m 62.000297,129 v 13 H 64 c 6.68e-4,-0.0217 0,-0.0406 0,-0.0625 v -12.875 c 0,-0.0219 6.68e-4,-0.0408 0,-0.0625 z"
          id="path4246"
          class="ColorScheme-Background" />
@@ -654,7 +654,7 @@
        id="bottomright">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.8;fill:#1f222d;fill-opacity:1"
+         style="opacity:0.8;fill:#20212b;fill-opacity:1"
          d="m 54,90 c 0.06722,2.1827 1.817292,3.93278 4,4 v -4 z"
          id="path4279"
          class="ColorScheme-Background" />
