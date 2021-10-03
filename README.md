@@ -19,4 +19,12 @@ Fixed dialogs: background.svg
 Changelog: 03.10.2021.
 ----------------------
 
+"Fancy-Dark-Icons"
+------------------
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
 Fixed icon: update.svg
