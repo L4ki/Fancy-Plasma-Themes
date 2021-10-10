@@ -28,3 +28,18 @@ Plasma Theme
 -------------
 
 Fixed icon: update.svg
+
+Changelog: 10.10.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Fixed widget: lineedit.svg
+
+
