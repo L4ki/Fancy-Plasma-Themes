@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    width="20"
    height="70"
    sodipodi:docname="lineedit.svg"
@@ -19,15 +19,15 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1007"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      guidetolerance="10.0"
      gridtolerance="10.0"
      objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     borderopacity="1"
+     bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="6.7567981"
@@ -50,9 +50,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
