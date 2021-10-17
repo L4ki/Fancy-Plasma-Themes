@@ -42,4 +42,17 @@ Plasma Theme
 
 Fixed widget: lineedit.svg
 
+Changelog: 17.10.2021.
+----------------------
+
+Icons
+-----
+
+Fixed icons: actions (32)
+
+Plasma Theme
+-------------
+
+Fixed widget: media.svg
+
 
