@@ -53,6 +53,19 @@ Fixed icons: actions (32)
 Plasma Theme
 -------------
 
-Fixed widget: media.svg
+Fixed icon: media.svg
+
+Changelog: 24.10.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (16, 22, 24, 32, 64)
+
+Plasma Theme
+-------------
+
+Fixed widget: background.svg
 
 
