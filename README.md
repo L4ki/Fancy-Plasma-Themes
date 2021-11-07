@@ -83,4 +83,17 @@ Plasma Theme
 
 Fixed widget: action-overlays.svg
 
+Changelog: 07.11.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Fixed icon: system.svg
+
 
