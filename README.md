@@ -96,4 +96,18 @@ Plasma Theme
 
 Fixed icon: system.svg
 
+Changelog: 14.11.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions
+
+Plasma Theme
+-------------
+
+Fixed widget: actionbutton.svg
+
+
 
