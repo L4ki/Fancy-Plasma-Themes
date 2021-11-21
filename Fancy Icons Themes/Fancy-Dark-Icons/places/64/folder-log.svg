@@ -4,8 +4,8 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-Plasma.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="folder-log.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      id="namedview17"
      showgrid="true"
      inkscape:zoom="9.8125"
-     inkscape:cx="31.949045"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -71,10 +71,10 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient836"
-       id="linearGradient874"
-       x1="404.57144"
+       id="linearGradient844"
+       x1="404.63544"
        y1="520.79797"
-       x2="428.57144"
+       x2="428.63544"
        y2="520.79797"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -104,9 +104,9 @@
          sodipodi:nodetypes="sssssccscsssccccccccsccsssccssscc" />
     </g>
     <path
-       d="m 410.57143,508.798 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 10,0 -3,3 5,5 -5,5 3,3 8,-8 z m -13.5,9 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 z m 6.5,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
+       style="color:#232629;fill:url(#linearGradient844);fill-opacity:1.0;stroke:none;stroke-width:1.09091"
+       d="m 404.63543,508.798 v 1.09091 h 24 V 508.798 Z m 0,2.18182 v 1.09091 h 1.09091 v -1.09091 z m 4.36364,3.27273 c -0.65455,0 -1.09091,0.43636 -1.09091,1.0909 0,0.6 0.43636,1.09091 1.09091,1.09091 0.6,0 1.09091,-0.49091 1.09091,-1.09091 0,-0.65454 -0.49091,-1.0909 -1.09091,-1.0909 z m 3.27272,0 v 1.0909 h 12 v -1.0909 z m 0,2.18181 v 1.09091 h 4.36364 v -1.09091 z m -3.27272,6.54546 c -0.65455,0 -1.09091,0.43636 -1.09091,1.09091 0,0.6 0.43636,1.09091 1.09091,1.09091 0.6,0 1.09091,-0.49091 1.09091,-1.09091 0,-0.65455 -0.49091,-1.09091 -1.09091,-1.09091 z m 3.27272,0 v 1.09091 h 5.45455 v -1.09091 z m 0,2.18182 v 1.09091 h 7.63637 v -1.09091 z m 0,2.18181 v 1.09091 h 15.27273 v -1.09091 z m -7.63636,2.18182 v 1.09091 h 1.09091 v -1.09091 z m 0,2.18182 v 1.09091 h 24 v -1.09091 z"
        class="ColorScheme-Text"
-       id="path3"
-       style="color:#eff0f1;stroke-width:2;fill-opacity:1.0;fill:url(#linearGradient874)" />
+       id="path12" />
   </g>
 </svg>

@@ -4,8 +4,8 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-Plasma.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="folder-mac.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      id="namedview17"
      showgrid="true"
      inkscape:zoom="9.8125"
-     inkscape:cx="31.949045"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -71,11 +71,20 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient836"
-       id="linearGradient874"
-       x1="404.57144"
+       id="linearGradient1025"
+       x1="402.88544"
        y1="520.79797"
-       x2="428.57144"
+       x2="430.314"
        y2="520.79797"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient836"
+       id="linearGradient1033"
+       x1="54"
+       y1="423"
+       x2="793"
+       y2="423"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -104,9 +113,20 @@
          sodipodi:nodetypes="sssssccscsssccccccccsccsssccssscc" />
     </g>
     <path
-       d="m 410.57143,508.798 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 10,0 -3,3 5,5 -5,5 3,3 8,-8 z m -13.5,9 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 z m 6.5,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
-       class="ColorScheme-Text"
-       id="path3"
-       style="color:#eff0f1;stroke-width:2;fill-opacity:1.0;fill:url(#linearGradient874)" />
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 406.314,513.08371 c 0,-0.47335 0.38379,-0.85714 0.85714,-0.85714 0.47336,0 0.85715,0.38379 0.85715,0.85714 0,0.47336 -0.38379,0.85715 -0.85715,0.85715 -0.47335,0 -0.85714,-0.38379 -0.85714,-0.85715 z m 3.42857,0 c 0,-0.47335 0.38379,-0.85714 0.85715,-0.85714 0.47335,0 0.85714,0.38379 0.85714,0.85714 0,0.47336 -0.38379,0.85715 -0.85714,0.85715 -0.47336,0 -0.85715,-0.38379 -0.85715,-0.85715 z m 3.42857,0 c 0,-0.47335 0.38379,-0.85714 0.85715,-0.85714 0.47335,0 0.85714,0.38379 0.85714,0.85714 0,0.47336 -0.38379,0.85715 -0.85714,0.85715 -0.47336,0 -0.85715,-0.38379 -0.85715,-0.85715 z M 430.314,517.798 v 11.57143 c 0,1.89343 -1.53514,3.42857 -3.42857,3.42857 H 406.314 c -1.89343,0 -3.42857,-1.53514 -3.42857,-3.42857 v -9.42857 c 0,-0.47336 0.38379,-0.85715 0.85714,-0.85715 0.47336,0 0.85715,0.38379 0.85715,0.85715 v 9.42857 c 0,0.94671 0.76757,1.71428 1.71428,1.71428 h 20.57143 c 0.94671,0 1.71429,-0.76757 1.71429,-1.71428 v -11.14286 c 0,-0.47336 -0.38379,-0.85714 -0.85715,-0.85714 h -22.71428 c -1.18361,0 -2.14286,-0.95925 -2.14286,-2.14286 v -3 c 0,-1.89343 1.53514,-3.42857 3.42857,-3.42857 h 20.57143 c 1.89343,0 3.42857,1.53514 3.42857,3.42857 v 0.85714 c 0,0.47336 -0.38378,0.85715 -0.85714,0.85715 -0.47336,0 -0.85714,-0.38379 -0.85714,-0.85715 v -0.85714 c 0,-0.94671 -0.76758,-1.71428 -1.71429,-1.71428 H 406.314 c -0.94671,0 -1.71428,0.76757 -1.71428,1.71428 v 2.57143 c 0,0.47336 0.38378,0.85714 0.85714,0.85714 h 22.71428 c 1.18361,0 2.14286,0.95925 2.14286,2.14286 z"
+       id="path2"
+       style="stroke-width:0.0535714;fill:url(#linearGradient1025);fill-opacity:1.0" />
+    <g
+       id="g8"
+       transform="matrix(0.00995025,0,0,0.00995025,412.38712,520.08904)"
+       style="image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill-opacity:1.0;fill:url(#linearGradient1033)">
+      <polygon
+         class="fil0"
+         points="793,21 511,423 793,825 617,825 423,549 230,825 54,825 335,423 54,21 230,21 423,298 617,21 "
+         id="polygon6"
+         style="fill-opacity:1.0;fill:url(#linearGradient1033)" />
+    </g>
   </g>
 </svg>

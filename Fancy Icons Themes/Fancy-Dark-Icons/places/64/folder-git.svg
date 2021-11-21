@@ -4,8 +4,8 @@
    version="1.1"
    height="64"
    id="svg15"
-   sodipodi:docname="folder-Plasma.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="folder-git.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +24,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1015"
      id="namedview17"
      showgrid="true"
      inkscape:zoom="9.8125"
-     inkscape:cx="31.949045"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -71,11 +71,11 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient836"
-       id="linearGradient874"
-       x1="404.57144"
-       y1="520.79797"
-       x2="428.57144"
-       y2="520.79797"
+       id="linearGradient850"
+       x1="2"
+       y1="8"
+       x2="15"
+       y2="8"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -103,10 +103,18 @@
          id="path2-3"
          sodipodi:nodetypes="sssssccscsssccccccccsccsssccssscc" />
     </g>
-    <path
-       d="m 410.57143,508.798 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z m 10,0 -3,3 5,5 -5,5 3,3 8,-8 z m -13.5,9 a 2.5,2.5 0 0 0 -2.5,2.5 2.5,2.5 0 0 0 2.5,2.5 2.5,2.5 0 0 0 2.5,-2.5 2.5,2.5 0 0 0 -2.5,-2.5 z m 6.5,9 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
-       class="ColorScheme-Text"
-       id="path3"
-       style="color:#eff0f1;stroke-width:2;fill-opacity:1.0;fill:url(#linearGradient874)" />
+    <g
+       id="g6"
+       transform="matrix(1.7142857,0,0,1.7142857,401.99986,507.08871)"
+       style="fill-opacity:1.0;fill:url(#linearGradient850)">
+      <path
+         d="M 6,4 C 6,2.897 5.103,2 4,2 2.897,2 2,2.897 2,4 2,4.737 2.405,5.375 3,5.722 v 5.556 C 2.405,11.625 2,12.263 2,13 2,14.103 2.897,15 4,15 5.103,15 6,14.103 6,13 6,12.263 5.595,11.625 5,11.278 V 5.722 C 5.595,5.375 6,4.737 6,4 Z M 4,3 C 4.551,3 5,3.449 5,4 5,4.551 4.551,5 4,5 3.449,5 3,4.551 3,4 3,3.449 3.449,3 4,3 Z m 0,11 c -0.551,0 -1,-0.448 -1,-1 0,-0.552 0.449,-1 1,-1 0.551,0 1,0.448 1,1 0,0.552 -0.449,1 -1,1 z"
+         id="path2"
+         style="fill-opacity:1.0;fill:url(#linearGradient850)" />
+      <path
+         d="M 14,11.278 V 6 C 14,4.343 12.657,3 11,3 H 10 V 1 L 7,4 10,7 V 5 h 1 c 0.552,0 1,0.448 1,1 v 5.278 c -0.727,0.424 -1.17,1.282 -0.938,2.224 0.177,0.718 0.781,1.299 1.505,1.452 C 13.858,15.227 15,14.244 15,13 15,12.263 14.595,11.625 14,11.278 Z M 13,14 c -0.552,0 -1,-0.448 -1,-1 0,-0.552 0.448,-1 1,-1 0.552,0 1,0.448 1,1 0,0.552 -0.448,1 -1,1 z"
+         id="path4"
+         style="fill-opacity:1.0;fill:url(#linearGradient850)" />
+    </g>
   </g>
 </svg>
