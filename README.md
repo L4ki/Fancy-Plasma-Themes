@@ -111,3 +111,17 @@ Fixed widget: actionbutton.svg
 
 
 
+Changelog: 21.11.2021.
+----------------------
+
+Icons
+-----
+
+Added new folder icons: places
+
+Plasma Theme
+-------------
+
+Fixed widget: checkmarks.svg
+
+
