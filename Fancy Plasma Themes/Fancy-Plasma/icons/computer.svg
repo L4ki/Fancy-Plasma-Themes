@@ -4,7 +4,7 @@
    width="32"
    height="32"
    version="1.0"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="computer.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -45,7 +45,7 @@
   </g>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -53,19 +53,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      id="namedview24"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="24.8125"
-     inkscape:cy="4.125"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="35.708892"
+     inkscape:cy="16.617009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid862"
