@@ -137,5 +137,19 @@ Plasma Theme
 
 Fixed icon: computer.svg
 
+Changelog: 06.12.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Fixed icon: start.svg
+
+
 
 
