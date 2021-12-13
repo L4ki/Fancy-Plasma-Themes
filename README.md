@@ -150,6 +150,19 @@ Plasma Theme
 
 Fixed icon: start.svg
 
+Changelog: 13.12.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Fixed icon: kaffeine.svg
+
 
 
 
