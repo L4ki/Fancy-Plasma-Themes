@@ -164,5 +164,20 @@ Plasma Theme
 Fixed icon: kaffeine.svg
 
 
+Changelog: 20.12.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: preferences
+
+Plasma Theme
+-------------
+
+Fixed widget: scrollwidget.svg
+
+
+
 
 
