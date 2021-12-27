@@ -177,6 +177,19 @@ Plasma Theme
 
 Fixed widget: scrollwidget.svg
 
+Changelog: 27.12.2021.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Fixed widget: slider.svg
+
 
 
 
