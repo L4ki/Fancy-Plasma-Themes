@@ -190,6 +190,20 @@ Plasma Theme
 
 Fixed widget: slider.svg
 
+Changelog: 03.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Fixed widget: tasks.svg
+
+
 
 
 
