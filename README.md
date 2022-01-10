@@ -203,6 +203,20 @@ Plasma Theme
 
 Fixed widget: tasks.svg
 
+Changelog: 10.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (32)
+
+Plasma Theme
+-------------
+
+Fixed widget: plasmoidheading.svg
+
+
 
 
 
