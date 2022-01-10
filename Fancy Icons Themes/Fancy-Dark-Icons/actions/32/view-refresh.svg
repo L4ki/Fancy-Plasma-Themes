@@ -1,8 +1,65 @@
-<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg7"
+   sodipodi:docname="view-refresh.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="9.71875"
+     inkscape:cx="-8.3344051"
+     inkscape:cy="6.9967846"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
         color:#eff0f1;
       }</style>
-    </defs>
-    <path class="ColorScheme-Text" fill="currentColor" d="m 28,16 a 12,12 0 0 1 -1.671875,6.083984 L 20.95,16.707 21.66,16 26.064,20.404 A 11,11 0 0 0 27,16 11,11 0 0 0 16,5 11,11 0 0 0 10.648438,6.404297 L 9.92,5.672 A 12,12 0 0 1 16,4 12,12 0 0 1 28,16 M 22.083984,26.328125 A 12,12 0 0 1 16,28 12,12 0 0 1 4,16 12,12 0 0 1 5.671875,9.91602 L 11.051,15.293 10.344,16 5.94,11.594 A 11,11 0 0 0 5,16 11,11 0 0 0 16,27 11,11 0 0 0 21.351562,25.595703 Z"/>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1598"
+       id="linearGradient1600"
+       x1="2.8813136"
+       y1="28.333443"
+       x2="17.655964"
+       y2="14.031005"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.92308184,0,0,0.92308184,1.231073,1.230755)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1598">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1"
+         offset="0"
+         id="stop1594" />
+      <stop
+         style="stop-color:#aa87de;stop-opacity:1"
+         offset="1"
+         id="stop1596" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 12.625071,23.500103 c 0.414189,0 0.750007,0.335815 0.750007,0.750004 0,0.414191 -0.335818,0.750003 -0.750007,0.750003 -0.414183,0 -0.75,-0.335812 -0.75,-0.750003 0,-0.414189 0.335817,-0.750004 0.75,-0.750004 z M 4.000027,17.500072 c 0,-5.798984 4.70107,-10.5000561 10.500058,-10.5000561 h 2.250009 c 0.414186,0 0.750006,-0.3358143 0.750006,-0.7500037 C 17.5001,5.007443 18.507541,4 19.750111,4 c 0.005,0 0.009,0.00121 0.0129,0.00121 V 4.00003 c 0.871982,0.0016 1.742827,0.3347364 2.407853,1.0001305 l 4.828897,4.8329313 c 1.333742,1.3346812 1.333742,3.4984422 0,4.8329342 l -4.828884,4.83275 c -0.665082,0.665796 -1.535927,0.998706 -2.407853,1.000532 v -7.49e-4 c -0.005,3.75e-4 -0.009,0.0014 -0.0129,0.0014 -1.242573,0 -2.250009,-1.007443 -2.250009,-2.250012 0,-0.41419 -0.335819,-0.750004 -0.750002,-0.750004 h -1.500004 v 0 c -2.070954,0 -3.750021,1.679071 -3.750021,3.75002 0,0.41419 -0.33582,0.750004 -0.750001,0.750004 -0.414199,0 -0.750006,-0.335814 -0.750006,-0.750004 0,-2.899656 2.350365,-5.250028 5.250028,-5.250028 h 1.500009 c 1.242564,0 2.250005,1.007442 2.250005,2.250012 0,0.414189 0.33581,0.750004 0.750006,0.750004 0.06,0 0.117564,-0.0087 0.173578,-0.02236 0.36914,-0.03919 0.728764,-0.19261 1.011841,-0.475361 l 5.066562,-5.061463 c 0.658458,-0.657707 0.658458,-1.724119 0,-2.381825 L 20.935511,5.997552 C 20.652437,5.7148473 20.292809,5.5615645 19.923659,5.5220024 c -0.0561,-0.01317 -0.11353,-0.02213 -0.173573,-0.02213 -0.41419,0 -0.750007,0.3358145 -0.750007,0.7500043 0,1.2425685 -1.007437,2.2500115 -2.250011,2.2500115 h -2.250007 c -4.970601,0 -9.000054,4.0294438 -9.000054,9.0000478 0,4.970605 4.029453,9.000052 9.000054,9.000052 h 3.750013 c 0.414191,0 0.750004,0.335817 0.750004,0.750007 0,0.414183 -0.335813,0.75 -0.750004,0.75 H 14.500061 C 8.70107,27.999995 4,23.298923 4,17.499936 Z"
+     id="path2-367"
+     style="fill:url(#linearGradient1600);fill-opacity:1;stroke-width:0.0468752" />
 </svg>
