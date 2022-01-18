@@ -217,6 +217,20 @@ Plasma Theme
 Fixed widget: plasmoidheading.svg
 
 
+Changelog: 18.01.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (48)
+
+Plasma Theme
+-------------
+
+Fixed widget: tabbar.svg, checkmarks.svg
+
+
 
 
 
