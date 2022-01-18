@@ -228,7 +228,7 @@ Added new icons: actions (48)
 Plasma Theme
 -------------
 
-Fixed widget: tabbar.svg, checkmarks.svg
+Fixed widgets: tabbar.svg, checkmarks.svg
 
 
 
