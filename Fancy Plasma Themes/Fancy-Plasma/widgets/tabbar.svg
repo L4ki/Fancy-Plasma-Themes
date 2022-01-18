@@ -4,7 +4,7 @@
    height="300"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="tabbar.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,20 +24,20 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1895377"
-     inkscape:cx="206.3827"
-     inkscape:cy="131.98405"
+     inkscape:zoom="0.84113017"
+     inkscape:cx="267.49724"
+     inkscape:cy="211.62004"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:lockguides="true"
-     inkscape:showpageshadow="false"
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        empopacity="0.03921569"
@@ -1235,7 +1235,7 @@
        x="10.999969"
        y="762.73718" />
     <path
-       style="opacity:0.1;fill:url(#linearGradient1791);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
+       style="opacity:0.1;fill:url(#linearGradient1791);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 137,784.36218 h 40 v 2.99995 h -40 z"
        id="north-active-tab-top"
        inkscape:connector-curvature="0" />
@@ -1255,7 +1255,7 @@
        id="north-active-tab-left"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.1;fill:url(#linearGradient1799);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
+       style="opacity:0.1;fill:url(#linearGradient1799);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 177,789.36216 v 40 h -40 v -40 z"
        id="north-active-tab-center"
        inkscape:connector-curvature="0" />
@@ -1265,7 +1265,7 @@
        id="north-active-tab-topright"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;fill:url(#linearGradient1783);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.707115"
+       style="opacity:1;fill:url(#linearGradient1783);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.707115"
        d="m 177.00005,834.66218 h -40 v -1.5 h 40 z"
        id="north-active-tab-bottom"
        inkscape:connector-curvature="0" />
@@ -1282,7 +1282,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="opacity:0.1;fill:url(#linearGradient1449);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
+       style="opacity:0.1;fill:url(#linearGradient1449);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 137,1026.3622 h 40 v -2.9999 h -40 z"
        id="south-active-tab-bottom"
        inkscape:connector-curvature="0" />
@@ -1302,7 +1302,7 @@
        id="south-active-tab-left"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.1;fill:url(#linearGradient1381);fill-opacity:1.0;fill-rule:nonzero;stroke:none"
+       style="opacity:0.1;fill:url(#linearGradient1381);fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 177,1021.3622 v -39.99996 h -40 v 39.99996 z"
        id="south-active-tab-center"
        inkscape:connector-curvature="0" />
