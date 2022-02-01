@@ -243,6 +243,19 @@ Plasma Theme
 
 Update widget: busywidget.svg
 
+Changelog: 01.02.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Update widget: clock.svg
+
 
 
 
