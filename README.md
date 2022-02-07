@@ -256,6 +256,20 @@ Plasma Theme
 
 Update widget: clock.svg
 
+Changelog: 08.02.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (symbolic)
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
+
 
 
 
