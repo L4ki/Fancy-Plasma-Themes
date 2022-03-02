@@ -1,6 +1,8 @@
 # Fancy-Plasma-Themes
 Fancy Themes For Plasma Desktop 
 
+https://store.kde.org/p/1598649
+
 Changelog: 25.09.2021.
 ----------------------
 
@@ -294,6 +296,19 @@ Plasma Theme
 -------------
 
 Update icon: audio.svg
+
+Changelog: 02.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (22)
+
+Plasma Theme
+-------------
+
+Update widget: configuration-icons.svg
 
 
 
