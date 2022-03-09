@@ -310,6 +310,20 @@ Plasma Theme
 
 Update widget: configuration-icons.svg
 
+Changelog: 09.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: devices (24)
+
+Plasma Theme
+-------------
+
+Update icon: window.svg
+
+
 
 
 
