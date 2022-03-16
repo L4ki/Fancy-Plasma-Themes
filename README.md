@@ -323,6 +323,20 @@ Plasma Theme
 
 Update icon: window.svg
 
+Changelog: 16.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (16)
+
+Plasma Theme
+-------------
+
+Update icon: view.svg
+
+
 
 
 
