@@ -336,6 +336,19 @@ Plasma Theme
 
 Update icon: view.svg
 
+Changelog: 23.03.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: bookmarks (actions 16, 22)
+
+Plasma Theme
+-------------
+
+Update widget: tooltip.svg
+
 
 
 
