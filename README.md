@@ -349,6 +349,19 @@ Plasma Theme
 
 Update widget: tooltip.svg
 
+Changelog: 30.03.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (22)
+
+Plasma Theme
+-------------
+
+Update widget: pager.svg
+
 
 
 
