@@ -376,6 +376,20 @@ Plasma Theme
 Update icons: notification.svg, notifications.svg
 
 
+Changelog: 13.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (32)
+
+Plasma Theme
+-------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+
 
 
 
