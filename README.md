@@ -389,6 +389,19 @@ Plasma Theme
 
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 20.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes (64)
+
+Plasma Theme
+-------------
+
+Added icon: configure.svg
+
 
 
 
