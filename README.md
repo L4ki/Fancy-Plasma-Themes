@@ -402,6 +402,19 @@ Plasma Theme
 
 Added icon: configure.svg
 
+Changelog: 27.04.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Added icons: go.svg, korgac.svg, plasmavault.svg, plasmavault_error.svg
+
 
 
 
