@@ -416,6 +416,20 @@ Plasma Theme
 Added icons: go.svg, korgac.svg, plasmavault.svg, plasmavault_error.svg
 
 
+Changelog: 04.05.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Theme
+-------------
+
+Update widget: busywidget.svg
+
+
 
 
 
