@@ -443,6 +443,19 @@ Plasma Theme
 
 Update icon: audio.svg
 
+Changelog: 18.05.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: apps (system-file-manager)
+
+Plasma Theme
+-------------
+
+Added new icons: yakuake.svg, zoom.svg
+
 
 
 
