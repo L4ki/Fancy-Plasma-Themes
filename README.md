@@ -1,7 +1,9 @@
 # Fancy-Plasma-Themes
 Fancy Themes For Plasma Desktop 
 
-https://store.kde.org/p/1598649
+"Fancy-Plasma": https://store.kde.org/p/1598649
+
+"Fancy-Color-Plasma" (Follows Color Scheme): 
 
 Changelog: 25.09.2021.
 ----------------------
