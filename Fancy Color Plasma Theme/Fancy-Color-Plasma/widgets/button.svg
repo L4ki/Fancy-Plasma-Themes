@@ -15,7 +15,10 @@
      id="current-color-scheme"
      type="text/css">.ColorScheme-Highlight { stop-color:#476382;    color:#476382; }
 .ColorScheme-ViewBackground { color:#3b5a87; }
-.ColorScheme-Text { color:#1c2231; }
+.ColorScheme-Text { 
+    stop-color:#1c2231;
+    color:#1c2231;
+}
 </style>
   <sodipodi:namedview
      id="namedview272"
@@ -27,16 +30,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.9999998"
-     inkscape:cx="79.375004"
-     inkscape:cy="-2.2500001"
+     inkscape:cx="94.875005"
+     inkscape:cy="17.125001"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg270"
      showguides="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
@@ -557,7 +560,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-2"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -24.783728,2 c -3,0 -5,2 -5,5 l 0.555544,-1.11e-5 c 2.7e-5,-2.6666611 1.777783,-4.4444449 4.444445,-4.4444449 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -605,7 +608,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-1"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -13.78375,7 c 0,-3 -2,-5 -5,-5 l 1.1e-5,0.555544 c 2.666661,2.7e-5 4.444445,1.777783 4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -678,7 +681,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-7-0"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -29.784,12.999989 c 0,3 2,5 5,5 l -1.1e-5,-0.555544 C -27.450672,17.444418 -29.228456,15.666662 -29.228456,13 Z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -701,7 +704,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-6-9"
-       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:currentColor;fill-opacity:0.3;stroke-width:0.5"
        d="m -18.78375,18 c 3,0 5.000011,-2 5.000011,-5 l -0.555555,1.1e-5 c -2.7e-5,2.666661 -1.777783,4.444445 -4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
