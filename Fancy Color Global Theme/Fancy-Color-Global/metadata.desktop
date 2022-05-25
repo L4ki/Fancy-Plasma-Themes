@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Fancy-Color-Global Look And Feel
+Name=Fancy-Color-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Fancy-Color-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1598635,kns://colorschemes.knsrc/api.kde-look.org/1733276,kns://plasma-themes.knsrc/api.kde-look.org/1733294,kns://icons.knsrc/api.kde-look.org/1598639,kns://icons.knsrc/api.kde-look.org/1717302,kns://aurorae.knsrc/api.kde-look.org/1733273,kns://wallpaper.knsrc/api.kde-look.org/1598609,kns://sddmtheme.knsrc/api.kde-look.org/1733267
