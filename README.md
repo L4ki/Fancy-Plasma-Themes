@@ -470,6 +470,8 @@ Added icons: places
 Plasma Theme "Fancy-Plasma"
 -------------
 
+Added widgets and dialogs: translucent, opaque, solid
+
 Update widget: tabbar.svg
 
 
