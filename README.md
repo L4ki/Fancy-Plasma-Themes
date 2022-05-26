@@ -459,6 +459,19 @@ Plasma Theme
 Added new icons: yakuake.svg, zoom.svg
 
 
+Changelog: 26.05.2022.
+----------------------
+
+Icons
+-----
+
+Added icons: places
+
+Plasma Theme "Fancy-Plasma"
+-------------
+
+Update widget: tabbar.svg
+
 
 
 
