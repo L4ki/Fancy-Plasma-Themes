@@ -30,8 +30,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2"
-     inkscape:cx="83.750001"
-     inkscape:cy="78.000001"
+     inkscape:cx="66.5"
+     inkscape:cy="78"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -59,7 +59,9 @@
      id="defs4157">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:d6dbf1ff; }
+       type="text/css">
+.ColorScheme-Text { 
+}
 .ColorScheme-Background { color:#eff0f1; }
 .ColorScheme-Highlight { color:#3498db; }
 .ColorScheme-ViewText { color:#31363b; }
@@ -70,9 +72,7 @@
 .ColorScheme-ButtonBackground { color:#eff0f1; }
 .ColorScheme-ButtonHover { color:#93cee9; }
 .ColorScheme-ButtonFocus { color:#3daee9; }
-.ColorScheme-NegativeText { 
-    color:#d35f5f;
-}
+.ColorScheme-NegativeText { color:#d35f5f; }
 </style>
   </defs>
   <g
@@ -1099,7 +1099,7 @@
        id="rect6935-9-4-7"
        style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.847682"
        d="m 13.499998,8.000001 h 9e-6 c 0.830999,0 1.499998,0.6689907 1.499998,1.5000583 0,0.8309827 -0.668999,1.4999737 -1.499998,1.4999737 h -9e-6 c -0.831,0 -1.499999,-0.668991 -1.499999,-1.4999737 0,-0.8310676 0.668999,-1.5000583 1.499999,-1.5000583 z m -2.999998,0 h 9e-6 c 0.830999,0 1.49999,0.6689907 1.49999,1.5000583 0,0.8309827 -0.668991,1.4999737 -1.49999,1.4999737 H 10.5 c -0.8309996,0 -1.4999988,-0.668991 -1.4999988,-1.4999737 0,-0.8310676 0.6689992,-1.5000583 1.4999988,-1.5000583 z m -3.0000232,0 h 4.24e-5 c 0.8309912,0 1.499982,0.6689907 1.499982,1.4999735 0,0.8309825 -0.6689908,1.4999735 -1.499982,1.4999735 h -4.24e-5 c -0.8309828,0 -1.4999735,-0.668991 -1.4999735,-1.4999735 0,-0.8309828 0.6689907,-1.4999735 1.4999735,-1.4999735 z"
-       class="ColorScheme-Text" />
+       class="ColorScheme-Text  ColorScheme-NegativeText" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.50003"
        d="m 3.000003,4.999837 v 8.000097 c 0,0.999919 1,1.999987 1.95541,2.000137 h 4.044586 v 0.999915 h 1 V 15.000071 H 12 v 0.999915 h 0.999999 v -0.999915 h 3.956576 c 1.043428,-1.5e-4 2.043428,-1.000218 2.043428,-2.000137 V 4.999837 c 0,-0.999918 -1,-1.999987 -1.990604,-1.999837 H 4.974096 C 4.000003,2.99985 3.000003,3.999919 3.000003,4.999837 Z m 1,0.382807 c 0,-0.832815 0.54425,-1.370275 1.520373,-1.382575 h 10.869387 c 1.084703,-1.5e-4 1.61024,0.54376 1.61024,1.517278 v 6.998678 c 0,0.904967 -0.57945,1.441677 -1.561684,1.483978 H 5.462171 C 4.530442,13.999853 4.000003,13.508444 4.000003,12.477325 Z M 14.999999,6.000056 V 7.000124 H 17 V 6.000056 Z M 3,16.999906 v 1.00007 h 5.999999 v -1.00007 z m 9.999999,0 v 1.00007 H 19 v -1.00007 z m -3,1.00007 v 1.00007 H 12 v -1.00007 z"
