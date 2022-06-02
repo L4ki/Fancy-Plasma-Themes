@@ -474,6 +474,19 @@ Added widgets and dialogs: translucent, opaque, solid
 
 Update widget: tabbar.svg
 
+Changelog: 02.06.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 24
+
+Plasma Theme "Fancy-Plasma"
+-------------
+
+Added new icons: audacious.svg, distribute.svg, kleopatra.svg
+
 
 
 
