@@ -717,12 +717,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="63.5"
-     inkscape:cx="140.5"
-     inkscape:zoom="2"
+     inkscape:cy="28.249999"
+     inkscape:cx="124"
+     inkscape:zoom="2.0000001"
      showgrid="false"
      id="namedview9"
-     inkscape:window-height="1009"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.58823529"
@@ -743,7 +743,7 @@
        id="grid3099"
        type="xygrid"
        originx="30.00033"
-       originy="6.1720605e-06" />
+       originy="6.1441208e-06" />
   </sodipodi:namedview>
   <metadata
      id="metadata3019">
@@ -956,25 +956,25 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Anivers;-inkscape-font-specification:Anivers;display:inline;fill:currentColor;fill-opacity:1;stroke:none"
-     x="91.164749"
+     x="91.164757"
      y="40.910194"
      id="text4166-4"
      class="ColorScheme-Text"><tspan
        style="font-size:6.34282px;line-height:1.25;fill:#d6dbf1;fill-opacity:1"
        sodipodi:role="line"
        id="tspan4168-72"
-       x="91.164749"
+       x="91.164757"
        y="40.910194">20%</tspan></text>
   <text
      id="text4170-9"
      y="40.910194"
-     x="121.30081"
+     x="121.30082"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Anivers;-inkscape-font-specification:Anivers;display:inline;fill:currentColor;fill-opacity:1;stroke:none"
      xml:space="preserve"
      class="ColorScheme-Text"><tspan
        style="font-size:6.34282px;line-height:1.25;fill:#d6dbf1;fill-opacity:1"
        y="40.910194"
-       x="121.30081"
+       x="121.30082"
        id="tspan4172-0"
        sodipodi:role="line">30%</tspan></text>
   <text
@@ -1004,26 +1004,26 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Anivers;-inkscape-font-specification:Anivers;display:inline;fill:currentColor;fill-opacity:1;stroke:none"
-     x="209.86108"
+     x="209.86107"
      y="40.910194"
      id="text4166-3"
      class="ColorScheme-Text"><tspan
        style="font-size:6.34282px;line-height:1.25;fill:#d6dbf1;fill-opacity:1"
        sodipodi:role="line"
        id="tspan4168-7"
-       x="209.86108"
+       x="209.86107"
        y="40.910194">60%</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Anivers;-inkscape-font-specification:Anivers;display:inline;fill:currentColor;fill-opacity:1;stroke:none"
-     x="240.55362"
+     x="240.5536"
      y="40.910194"
      id="text4166-3-5"
      class="ColorScheme-Text"><tspan
        style="font-size:6.34282px;line-height:1.25;fill:#d6dbf1;fill-opacity:1"
        sodipodi:role="line"
        id="tspan4168-7-5"
-       x="240.55362"
+       x="240.5536"
        y="40.910194">70%</tspan></text>
   <text
      xml:space="preserve"
@@ -1345,10 +1345,10 @@
        height="10"
        width="10"
        id="rect4577"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       style="opacity:0.05;fill:currentColor;fill-opacity:1;stroke:none"
        class="ColorScheme-Text" />
     <path
-       style="fill:#bf616a;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#a3424b;fill-opacity:1;fill-rule:evenodd"
        d="m -53.187502,8.55 2.1875,2.25 2.25,-2.2188 1.25,1.2808 -2.25,2.188 2.219,2.25 -1.281,1.25 -2.188,-2.25 -2.25,2.219 -1.25,-1.281 2.25,-2.188 -2.2188,-2.25 z"
        id="path2396-0"
        inkscape:connector-curvature="0"
@@ -1426,7 +1426,7 @@
   </g>
   <g
      id="fill10"
-     transform="translate(60.00033)">
+     transform="translate(60.000326)">
     <rect
        style="opacity:0.01;fill:#000000;fill-opacity:0.00392157;stroke:none"
        id="rect2991-2"
