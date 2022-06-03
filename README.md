@@ -487,6 +487,15 @@ Plasma Theme "Fancy-Plasma"
 
 Added new icons: audacious.svg, distribute.svg, kleopatra.svg
 
+Changelog: 03.06.2022.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Update icons: battery.svg, update.svg
+
+Update widget: scrollbar.svg
 
 
 
