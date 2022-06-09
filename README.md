@@ -497,6 +497,18 @@ Update icons: battery.svg, update.svg
 
 Update widget: scrollbar.svg
 
+Changelog: 09.06.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 16
+
+Plasma Theme "Fancy-Plasma"
+-------------
+
+Update icon: device.svg
 
 
 
