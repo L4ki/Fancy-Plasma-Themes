@@ -510,6 +510,7 @@ Plasma Theme "Fancy-Plasma"
 
 Update icon: device.svg
 
+Update widget: tasks.svg
 
 
 
