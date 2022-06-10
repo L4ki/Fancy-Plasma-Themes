@@ -27,16 +27,16 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94613463"
-     inkscape:cx="522.65289"
-     inkscape:cy="297.52637"
+     inkscape:zoom="1.8922693"
+     inkscape:cx="352.22259"
+     inkscape:cy="212.44333"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="north-focus-center-8"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1832"
+     inkscape:window-height="965"
+     inkscape:window-x="44"
+     inkscape:window-y="44"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
@@ -17275,7 +17275,7 @@
        x2="215"
        y1="642.36218"
        x1="215"
-       gradientTransform="translate(187,360)"
+       gradientTransform="translate(312,350)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient7403-4-3"
        xlink:href="#linearGradient81119"
@@ -22122,11 +22122,10 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9612);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
     </g>
     <g
-       id="g29002"
-       transform="translate(125,-10.000003)">
+       id="progress-bottomright">
       <rect
-         y="996.36218"
-         x="422"
+         y="986.36218"
+         x="547"
          height="6.9999976"
          width="7"
          id="rect23457-7-0-8-2-1-2"
@@ -22134,12 +22133,12 @@
       <path
          inkscape:connector-curvature="0"
          id="path17976-36-0-2-2-8-5"
-         d="m 422.01834,1001.3621 c 2.63872,0.014 4.98176,-2.2983 4.98176,-4.99309 v -0.007 h -5 v 4.99999 z"
+         d="m 547.01834,991.3621 c 2.63872,0.014 4.98176,-2.2983 4.98176,-4.99309 v -0.007 h -5 v 4.99999 z"
          style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#1a9fe5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none" />
       <path
          inkscape:connector-curvature="0"
          id="path7782-8-1-9-7-4-8-5-2-3-4"
-         d="m 427.99981,996.39023 c 0.0187,3.07791 -2.91597,5.97177 -5.99391,5.97177 h -0.006 v -1 l 0.0723,-10e-4 c 2.64448,-0.037 4.88322,-2.285 4.92649,-4.93746 l 10e-4,-0.0613 h 0.99995 z"
+         d="m 552.99981,986.39023 c 0.0187,3.07791 -2.91597,5.97177 -5.99391,5.97177 h -0.006 v -1 l 0.0723,-10e-4 c 2.64448,-0.037 4.88322,-2.285 4.92649,-4.93746 l 10e-4,-0.0613 h 0.99995 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7403-4-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
     </g>
     <g
@@ -25030,11 +25029,14 @@
          style="display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none" />
       <g
          id="north-focus-center-8">
-        <path
-           inkscape:connector-curvature="0"
-           id="path9068-9-37-8-0-1-6-6"
-           d="M 167.00002,596.36218 H 127 v 39.99987 h 40.00002 v -39.99988 z"
-           style="display:inline;overflow:visible;visibility:visible;fill:#43455a;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none" />
+        <g
+           id="north-minimized-center">
+          <path
+             inkscape:connector-curvature="0"
+             id="path9068-9-37-8-0-1-6-6"
+             d="M 167.00002,596.36218 H 127 v 39.99987 h 40.00002 v -39.99988 z"
+             style="display:inline;overflow:visible;visibility:visible;fill:#43455a;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none" />
+        </g>
       </g>
     </g>
     <g
@@ -25576,7 +25578,7 @@
       </g>
     </g>
     <g
-       id="progress-bottomright">
+       id="north-progress-bottomright">
       <rect
          y="-993.36218"
          x="-369"
