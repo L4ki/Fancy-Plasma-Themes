@@ -522,6 +522,23 @@ Update icon: device.svg
 
 Update widget: tasks.svg
 
+Changelog: 17.06.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: actions 22
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update icon: kteatime.svg
+
+Aurorae Theme: "Fancy-Blur-Aurorae"
+------------------------------------
+
+Update decoration.svg (Customized for Plasma 5.25)
 
 
 
