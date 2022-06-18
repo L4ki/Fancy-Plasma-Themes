@@ -541,4 +541,13 @@ Aurorae Theme: "Fancy-Blur-Aurorae"
 Update decoration.svg (Customized for Plasma 5.25)
 
 
+Changelog: 18.06.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update icon: kteatime.svg
+
+
 
