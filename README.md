@@ -549,5 +549,18 @@ Plasma Theme "Fancy-Plasma"
 
 Update icon: kteatime.svg
 
+Changelog: 24.06.2022.
+----------------------
+
+Icons
+-----
+
+Update icons: actions 24
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update icon: touchpad.svg
+
 
 
