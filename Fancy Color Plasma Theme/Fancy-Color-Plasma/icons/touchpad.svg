@@ -5,7 +5,7 @@
    version="1.1"
    id="svg22"
    sodipodi:docname="touchpad.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -20,7 +20,7 @@
 .ColorScheme-Text { color:#eff0f1; }
 </style>
   <g
-     id="g2076"
+     id="22-22-touchpad_disabled"
      transform="translate(32,-22.000015)">
     <rect
        style="opacity:0.00100002"
@@ -150,12 +150,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="6.9384855"
      inkscape:cx="33.076382"
-     inkscape:cy="2.0177314"
+     inkscape:cy="2.0897932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -163,7 +163,8 @@
      inkscape:document-rotation="0"
      inkscape:lockguides="true"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid917"
@@ -171,7 +172,7 @@
        originy="0" />
   </sodipodi:namedview>
   <g
-     id="g2235">
+     id="touchpad_disabled">
     <rect
        style="opacity:0.00100002"
        width="32"
@@ -208,7 +209,7 @@
        class="ColorScheme-Text" />
   </g>
   <g
-     id="g2117"
+     id="22-22-touchpad_enabled"
      transform="translate(32,-22.000015)">
     <rect
        style="opacity:0.00100002"
