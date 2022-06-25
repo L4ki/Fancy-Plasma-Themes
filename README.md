@@ -571,5 +571,7 @@ Plasma Theme "Fancy-Plasma"
 
 Added icons: kpackagekit.svg, kruler.svg
 
+Update icon: system.svg
+
 
 
