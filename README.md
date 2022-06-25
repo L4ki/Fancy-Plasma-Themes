@@ -563,4 +563,13 @@ Plasma Theme "Fancy-Color-Plasma"
 Update icon: touchpad.svg
 
 
+Changelog: 25.06.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added icons: kpackagekit.svg, kruler.svg
+
+
 
