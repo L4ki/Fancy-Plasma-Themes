@@ -573,5 +573,18 @@ Added icons: kpackagekit.svg, kruler.svg
 
 Update icon: system.svg
 
+Changelog: 01.07.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 16
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update widget: busywidget.svg
+
 
 
