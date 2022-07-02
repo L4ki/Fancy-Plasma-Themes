@@ -4,7 +4,7 @@
    height="128"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    version="1.0"
    sodipodi:docname="slider.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -29,25 +29,26 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="84.500004"
-     inkscape:cy="55.250003"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="47.500002"
+     inkscape:cy="47.750002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
      inkscape:snap-global="true"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:showpageshadow="true"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -569,7 +570,7 @@
       <path
          class="ColorScheme-Text"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#0052cc;fill-opacity:1"
+         style="opacity:1;fill:#0052cc;fill-opacity:0.3019608"
          d="m 48.847758,60.739738 v 3 h 3 v -3 z"
          id="path908" />
       <path
@@ -586,7 +587,7 @@
       <path
          id="path914"
          d="m 48.847758,60.739738 v 3 h 3 v -3 z"
-         style="opacity:1;fill:#0052cc;fill-opacity:1"
+         style="opacity:1;fill:#0052cc;fill-opacity:0.3019608"
          inkscape:connector-curvature="0"
          class="ColorScheme-Text" />
       <path
@@ -601,7 +602,7 @@
        id="groove-highlight-topright"
        style="fill:#00aad4;fill-opacity:1">
       <path
-         style="opacity:1;fill:#0052cc;fill-opacity:1"
+         style="opacity:1;fill:#0052cc;fill-opacity:0.3019608"
          d="m 54.50312,59.199524 c 0,-1.68216 -1.31784,-3 -3,-3 v 3 z"
          id="path920"
          sodipodi:nodetypes="cccc"
@@ -623,7 +624,7 @@
          sodipodi:nodetypes="cccc"
          id="path926"
          d="m 54.50312,59.199524 c 0,-1.68216 -1.31784,-3 -3,-3 v 3 z"
-         style="opacity:1;fill:#0052cc;fill-opacity:1" />
+         style="opacity:1;fill:#0052cc;fill-opacity:0.3019608" />
       <path
          inkscape:connector-curvature="0"
          id="path928"
@@ -640,7 +641,7 @@
          sodipodi:nodetypes="cccc"
          id="path932"
          d="m 54.50312,59.199524 c 0,-1.68216 -1.31784,-3 -3,-3 v 3 z"
-         style="opacity:1;fill:#0052cc;fill-opacity:1" />
+         style="opacity:1;fill:#0052cc;fill-opacity:0.30000001" />
       <path
          inkscape:connector-curvature="0"
          id="path934"
@@ -652,7 +653,7 @@
        id="groove-highlight-bottomleft"
        style="fill:#00aad4;fill-opacity:1">
       <path
-         style="opacity:1;fill:#0052cc;fill-opacity:1"
+         style="opacity:1;fill:#0052cc;fill-opacity:0.3019608"
          d="m 54.50312,59.199524 c 0,-1.68216 -1.31784,-3 -3,-3 v 3 z"
          id="path938"
          sodipodi:nodetypes="cccc"
