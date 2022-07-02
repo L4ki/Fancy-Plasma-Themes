@@ -586,5 +586,13 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: busywidget.svg
 
+Changelog: 02.07.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widgets: slider.svg, viewitem.svg
+
 
 
