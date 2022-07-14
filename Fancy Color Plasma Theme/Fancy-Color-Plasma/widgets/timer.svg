@@ -6,7 +6,7 @@
    height="590.7525"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="timer.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
@@ -140,15 +140,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.20176839"
-     inkscape:cx="904.50243"
-     inkscape:cy="792.98844"
+     inkscape:cx="508.00822"
+     inkscape:cy="795.46652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-global="false"
@@ -160,38 +160,32 @@
      objecttolerance="10000"
      guidetolerance="10000"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid3146"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       originx="162.77926"
-       originy="592.2351"
-       spacingx="1"
-       spacingy="1" />
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="1,0"
        position="-244.95766,-50.48928"
        id="guide3150"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="-226.70645,-49.72881"
        id="guide3152"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="-160.66605,-85.85566"
        id="guide3154"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="-245.41846,-215.49343"
        id="guide3156"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid824" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
