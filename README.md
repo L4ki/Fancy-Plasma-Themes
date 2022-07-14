@@ -594,5 +594,18 @@ Plasma Theme "Fancy-Plasma"
 
 Update widgets: slider.svg, viewitem.svg
 
+Changelog: 14.07.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 22
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update widget: timer.svg
+
 
 
