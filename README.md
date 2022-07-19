@@ -607,5 +607,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: timer.svg
 
+Changelog: 19.07.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: scrollbar.svg
 
 
