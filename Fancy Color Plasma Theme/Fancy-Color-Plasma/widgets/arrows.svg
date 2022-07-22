@@ -5,7 +5,7 @@
    viewBox="0 0 13.999995 13.999996"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="arrows.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -31,17 +31,17 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="10.694991"
-     inkscape:cy="-1.8561554"
+     inkscape:zoom="45.254832"
+     inkscape:cx="6.0214565"
+     inkscape:cy="6.4081555"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -55,7 +55,8 @@
      inkscape:pagecheckerboard="0"
      scale-x="1"
      inkscape:lockguides="false"
-     showguides="false">
+     showguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4160"
@@ -148,11 +149,12 @@
          class="ColorScheme-Text" />
       <circle
          cx="296.53226"
-         cy="-33.61705"
+         cy="-33.59164"
          id="circle6-6"
-         style="fill:#00ccff;stroke-width:0.333328;fill-opacity:1"
+         style="stroke-width:0.333328;fill-opacity:1;fill:#00ccff;"
          transform="rotate(90)"
-         r="1" />
+         r="1"
+         class="ColorScheme-Highlight" />
     </g>
   </g>
 </svg>
