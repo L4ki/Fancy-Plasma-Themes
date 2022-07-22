@@ -8,6 +8,6 @@
   </defs>
     <path
        style="fill:currentColor;fill-opacity:1;stroke:none" 
-       d="M3 3v6.666h6.666V3zm9.334 0v6.666H19V3zM3 12.334V19h6.666v-6.666zm9.334 0V19H19v-6.666z"
+       d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z M 5 16 L 5 17 L 17 17 L 17 16 L 5 16 z "
        class="ColorScheme-Text" />
 </svg>
