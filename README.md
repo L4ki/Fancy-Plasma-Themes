@@ -615,4 +615,17 @@ Plasma Theme "Fancy-Plasma"
 
 Update widget: scrollbar.svg
 
+Changelog: 22.07.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: places
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update widget: arrows.svg
+
 
