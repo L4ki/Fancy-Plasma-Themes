@@ -636,4 +636,9 @@ Plasma Theme "Fancy-Plasma"
 
 Update widget: line.svg
 
+Aurorae Theme "Fancy-Blur-Aurorae"
+----------------------------------
+
+Update: decoration.svg
+
 
