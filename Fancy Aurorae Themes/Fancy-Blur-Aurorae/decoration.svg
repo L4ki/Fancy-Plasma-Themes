@@ -4,7 +4,7 @@
    height="310"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="decoration.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -26,14 +26,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="246.78027"
-     inkscape:cy="186.67619"
+     inkscape:cx="247.48737"
+     inkscape:cy="187.3833"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -55,8 +55,9 @@
      inkscape:snap-nodes="true"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid2555"
@@ -932,7 +933,7 @@
     </g>
     <g
        id="mask-top"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <rect
          y="-839.00372"
          x="155.7645"
@@ -962,7 +963,7 @@
     </g>
     <g
        id="mask-topright"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <path
          id="rect4177-6-1-8-7-8"
          style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:1.01981"
@@ -983,7 +984,7 @@
     </g>
     <g
        id="mask-bottom"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <rect
          y="-839.00403"
          x="267.7645"
@@ -1013,7 +1014,7 @@
     </g>
     <g
        id="mask-bottomleft"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <path
          d="m 693.0038,268.7645 v 4 h -13 c -2.39409,0 -4,-2 -3.9,-4 h 3.9 z"
          style="opacity:0.01;fill:#000000;fill-opacity:1"
@@ -1034,7 +1035,7 @@
     </g>
     <g
        id="mask-right"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <rect
          y="-857.00378"
          x="181.76469"
@@ -1065,7 +1066,7 @@
     </g>
     <g
        id="mask-bottomright"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <path
          sodipodi:nodetypes="cccccc"
          id="rect4177-6-1-8-2"
@@ -1086,7 +1087,7 @@
     </g>
     <g
        id="mask-topleft"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <path
          sodipodi:nodetypes="cccssc"
          d="m 693.0038,155.7645 v 25 h -17 v -21 c 0,-2.22028 1.76336,-4 4,-4 z"
@@ -1107,7 +1108,7 @@
     </g>
     <g
        id="mask-left"
-       transform="translate(-166.6239,27.477048)">
+       transform="translate(-267.83511,23.235505)">
       <rect
          transform="matrix(0,1,1,0,0,0)"
          style="opacity:0.01;fill:#000000;fill-opacity:1;stroke-width:4.14728"
@@ -1137,7 +1138,7 @@
     </g>
     <g
        id="decoration-center-5-3"
-       transform="translate(417.37987,4.2415593)"
+       transform="translate(316.16866,2.4495592e-5)"
        style="fill:#000000;fill-opacity:1">
       <rect
          y="-254.99977"
