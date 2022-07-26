@@ -628,4 +628,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: arrows.svg
 
+Changelog: 26.07.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: line.svg
+
 
