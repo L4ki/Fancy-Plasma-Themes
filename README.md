@@ -641,4 +641,17 @@ Aurorae Theme "Fancy-Blur-Aurorae"
 
 Update: decoration.svg
 
+Changelog: 29.07.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 32
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update widget: tasks.svg
+
 
