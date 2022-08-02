@@ -654,7 +654,7 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: tasks.svg
 
-Changelog: 26.08.2022.
+Changelog: 02.08.2022.
 ----------------------
 
 Plasma Theme "Fancy-Plasma"
