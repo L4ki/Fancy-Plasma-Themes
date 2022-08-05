@@ -675,4 +675,9 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update icon: bookmarks.svg
 
+Fancy-Kvantum
+-------------
+
+Update: Fancy-Kvantum.svg
+
 
