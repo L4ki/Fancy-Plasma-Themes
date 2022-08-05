@@ -662,4 +662,17 @@ Plasma Theme "Fancy-Plasma"
 
 Update widget: tabbar.svg
 
+Changelog: 05.08.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 16
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update icon: bookmarks.svg
+
 
