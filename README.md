@@ -680,4 +680,12 @@ Fancy-Kvantum
 
 Update: Fancy-Kvantum.svg
 
+Changelog: 09.08.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added new icons: quassel.svg, mobile.svg
+
 
