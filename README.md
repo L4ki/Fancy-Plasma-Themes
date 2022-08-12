@@ -688,4 +688,12 @@ Plasma Theme "Fancy-Plasma"
 
 Added new icons: quassel.svg, mobile.svg
 
+Changelog: 12.08.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 24
+
 
