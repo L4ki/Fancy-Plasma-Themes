@@ -697,3 +697,9 @@ Icons
 Added new icons: actions 24
 
 
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update widget: line.svg
+
+
