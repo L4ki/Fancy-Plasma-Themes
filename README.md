@@ -702,4 +702,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: line.svg
 
+Changelog: 16.08.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widgets: listitem.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 
