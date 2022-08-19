@@ -723,6 +723,6 @@ Added new icons: mimetypes
 Plasma Theme "Fancy-Color-Plasma"
 ---------------------------------
 
-Updatewidger: listitem
+Update widget: listitem
 
 
