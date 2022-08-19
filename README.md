@@ -711,3 +711,18 @@ Plasma Theme "Fancy-Plasma"
 Update widgets: listitem.svg, bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 
+Changelog: 19.08.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: mimetypes
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Updatewidger: listitem
+
+
