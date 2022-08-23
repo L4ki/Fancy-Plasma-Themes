@@ -726,3 +726,9 @@ Plasma Theme "Fancy-Color-Plasma"
 Update widget: listitem
 
 
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: tasks.svg
+
+
