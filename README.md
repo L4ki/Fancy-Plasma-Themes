@@ -726,6 +726,9 @@ Plasma Theme "Fancy-Color-Plasma"
 Update widget: listitem
 
 
+Changelog: 23.08.2022.
+----------------------
+
 Plasma Theme "Fancy-Plasma"
 --------------------------
 
