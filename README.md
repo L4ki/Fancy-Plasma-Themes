@@ -734,4 +734,18 @@ Plasma Theme "Fancy-Plasma"
 
 Update widget: tasks.svg
 
+Changelog: 26.08.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 22
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Update icon: software.svg
+
 
