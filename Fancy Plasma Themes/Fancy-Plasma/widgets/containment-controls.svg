@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="282.85004"
    height="205.54784"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.0"
    sodipodi:docname="containment-controls.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="arrow-up.png"
    inkscape:export-xdpi="11.25"
    inkscape:export-ydpi="11.25"
-   viewBox="0 0 265.1719 192.70109">
+   viewBox="0 0 265.1719 192.70109"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -31,15 +30,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9209576"
-     inkscape:cx="111.4358"
-     inkscape:cy="109.98009"
+     inkscape:cx="169.96731"
+     inkscape:cy="135.86973"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -48,7 +47,11 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-page="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="true">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -67,7 +70,8 @@
     <sodipodi:guide
        orientation="0,1"
        position="73.01418,61.786407"
-       id="guide5546" />
+       id="guide5546"
+       inkscape:locked="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -105,16 +109,16 @@
          id="stop4161" />
     </linearGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient6476">
+       id="linearGradient6476"
+       inkscape:swatch="solid">
       <stop
          id="stop6478"
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient6476-1">
+       id="linearGradient6476-1"
+       inkscape:swatch="solid">
       <stop
          id="stop6478-5"
          offset="0"
@@ -154,7 +158,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +181,7 @@
        id="vertical-centerindicator"
        transform="translate(1,15)">
       <rect
-         style="color:#31363b;opacity:1;fill:#00adcf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="color:#31363b;opacity:1;fill:#0094b2;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="rect4223-8"
          width="42"
          height="1"
@@ -191,7 +194,7 @@
        transform="translate(-4,17)">
       <path
          transform="rotate(-90)"
-         style="color:#31363b;opacity:1;fill:#00adcf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="color:#31363b;opacity:1;fill:#0094b2;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M -31,8 H 11 V 9 H -31 Z"
          id="rect4227-2" />
     </g>
