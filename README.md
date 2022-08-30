@@ -748,4 +748,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update icon: software.svg
 
+hangelog: 30.08.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: containment-controls.svg
+
 
