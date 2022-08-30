@@ -748,7 +748,7 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update icon: software.svg
 
-hangelog: 30.08.2022.
+Changelog: 30.08.2022.
 ----------------------
 
 Plasma Theme "Fancy-Plasma"
