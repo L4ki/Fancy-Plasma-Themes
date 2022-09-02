@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="calendar.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.1"
    id="svg2"
    viewBox="0 0 30 30"
@@ -39,30 +39,28 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      inkscape:window-width="1920"
      units="px"
      borderlayer="true"
-     inkscape:showpageshadow="false"
+     inkscape:showpageshadow="true"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="7.5453369"
-     inkscape:cx="-7.5956392"
-     inkscape:zoom="9.939914"
+     inkscape:cy="4.8373921"
+     inkscape:cx="9.4613698"
+     inkscape:zoom="7.0285806"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1"
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
-       originy="-117.99998"
-       originx="0"
-       empspacing="2"
-       id="grid3336"
-       type="xygrid" />
+       type="xygrid"
+       id="grid2523" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
