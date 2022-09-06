@@ -770,4 +770,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: calendar.svg
 
+Changelog: 06.09.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update icon: preferences.svg
+
 
