@@ -778,4 +778,18 @@ Plasma Theme "Fancy-Plasma"
 
 Update icon: preferences.svg
 
+Changelog: 09.09.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 24
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Update widget: viewitem.svg
+
 
