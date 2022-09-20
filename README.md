@@ -814,4 +814,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: background.svg
 
+Changelog: 20.09.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: actionbutton.svg
+
 
