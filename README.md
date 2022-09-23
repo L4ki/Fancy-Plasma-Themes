@@ -822,4 +822,18 @@ Plasma Theme "Fancy-Plasma"
 
 Update widget: actionbutton.svg
 
+Changelog: 23.09.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: actions 22
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Update widget: action-overlays.svg
+
 
