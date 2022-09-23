@@ -836,4 +836,9 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: action-overlays.svg
 
+GTK Theme
+---------
+
+Update: assets, gtk.css
+
 
