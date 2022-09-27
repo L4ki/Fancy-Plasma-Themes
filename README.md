@@ -841,4 +841,12 @@ GTK Theme
 
 Update: assets, gtk.css
 
+Changelog: 27.09.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added new icons: kup.svg, list.svg, software.svg, user.svg, slc.svg
+
 
