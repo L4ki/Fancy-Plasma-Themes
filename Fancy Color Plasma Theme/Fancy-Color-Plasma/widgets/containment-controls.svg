@@ -4,7 +4,7 @@
    height="205.54784"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    version="1.0"
    sodipodi:docname="containment-controls.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -33,16 +33,16 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9209576"
-     inkscape:cx="98.128142"
-     inkscape:cy="109.84105"
+     inkscape:zoom="1.3583221"
+     inkscape:cx="176.32047"
+     inkscape:cy="88.344286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -52,26 +52,18 @@
      inkscape:guide-bbox="true"
      inkscape:snap-page="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
-    <inkscape:grid
-       enabled="true"
-       visible="true"
-       empspacing="2"
-       empopacity="0.03921569"
-       opacity="0.01960784"
-       empcolor="#0000ff"
-       color="#0000ff"
-       spacingy="0.99999995"
-       spacingx="0.99999995"
-       originy="2.9146873"
-       originx="73.01418"
-       type="xygrid"
-       id="GridFromPre046Settings"
-       snapvisiblegridlinesonly="true" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="false">
     <sodipodi:guide
        orientation="0,1"
        position="73.01418,61.786407"
-       id="guide5546" />
+       id="guide5546"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid277" />
   </sodipodi:namedview>
   <defs
      id="defs4">
