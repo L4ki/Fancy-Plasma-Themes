@@ -864,4 +864,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: containment-controls.svg
 
+Changelog: 04.10.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: arrows.svg
+
 
