@@ -873,3 +873,18 @@ Plasma Theme "Fancy-Plasma"
 Update widget: arrows.svg
 
 
+Changelog: 07.10.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Update widget: configuration-icons.svg
+
+
