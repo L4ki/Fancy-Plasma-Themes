@@ -887,4 +887,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: configuration-icons.svg
 
+Changelog: 11.10.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update icon: system.svg
+
 
