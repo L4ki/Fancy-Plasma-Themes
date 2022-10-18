@@ -909,4 +909,12 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Added new widget: picker.svg
 
+Changelog: 18.10.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: scrollbar.svg
+
 
