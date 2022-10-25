@@ -931,4 +931,13 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: scrollbar.svg
 
+Changelog: 25.10.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added icon: juk.svg
+
+
 
