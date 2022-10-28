@@ -5,7 +5,7 @@
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,22 +30,21 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.9999998"
-     inkscape:cx="94.875005"
+     inkscape:cx="95.000005"
      inkscape:cy="17.125001"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg270"
      showguides="true"
      inkscape:lockguides="false"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
-       id="grid8101"
-       originx="32"
-       originy="-0.99999984" />
+       id="grid495" />
   </sodipodi:namedview>
   <defs
      id="defs5">
