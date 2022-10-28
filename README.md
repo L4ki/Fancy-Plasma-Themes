@@ -953,5 +953,11 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update widget: button.svg
 
+GTK-Theme
+--------
+
+Update assets icons
+
+
 
 
