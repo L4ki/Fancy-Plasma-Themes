@@ -959,5 +959,14 @@ GTK-Theme
 Update assets icons
 
 
+Changelog: 01.11.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update icon: apport.svg
+
+
 
 
