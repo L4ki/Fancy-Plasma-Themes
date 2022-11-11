@@ -989,6 +989,20 @@ Plasma Theme "Fancy-Plasma"
 
 Added icon: tools.svg
 
+Changelog: 11.11.2022.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps
+
+
+Plasma Theme "Fancy-Color-Plasma"
+---------------------------------
+
+Added icon: juk.svg
+
 
 
 
