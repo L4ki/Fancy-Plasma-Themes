@@ -1003,6 +1003,14 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Added icon: juk.svg
 
+Changelog: 15.11.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update widget: line.svg
+
 
 
 
