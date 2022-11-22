@@ -1025,6 +1025,19 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Added icon: face.svg
 
+Changelog: 22.11.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added icon: face.svg
+
+GTK Theme
+---------
+
+Update: checkbox-checked-hover.png
+
 
 
 
