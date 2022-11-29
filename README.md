@@ -1039,5 +1039,24 @@ GTK Theme
 Update: checkbox-checked-hover.png
 
 
+Changelog: 29.11.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma" and "Fancy-Color-Plasma"
+----------------------------------------------------
+
+Added icon: nulloy.svg
+
+Icons
+---------
+
+Added new icons: apps 32, 48
+
+Kvantum
+-------
+
+Upodate: Fancy-Kvantum.svg
+
+
 
 
