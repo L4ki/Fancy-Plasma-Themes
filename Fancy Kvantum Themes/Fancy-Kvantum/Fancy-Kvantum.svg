@@ -36,12 +36,12 @@
      inkscape:pageopacity="0.98823529"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="1008"
      id="namedview1766"
      showgrid="false"
-     inkscape:zoom="1.9999999"
-     inkscape:cx="200.50001"
-     inkscape:cy="334.25001"
+     inkscape:zoom="0.99999995"
+     inkscape:cx="59.000003"
+     inkscape:cy="316.50002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -6079,7 +6079,7 @@
        id="rect1592" />
     <path
        d="m 400,92.5 -20,20 h 20 z"
-       style="opacity:1;fill:#0076b2;fill-opacity:1"
+       style="opacity:1;fill:#0086cc;fill-opacity:1"
        id="path1594"
        inkscape:connector-curvature="0" />
   </g>
