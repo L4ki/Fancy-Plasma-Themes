@@ -1058,5 +1058,19 @@ Kvantum
 Upodate: Fancy-Kvantum.svg
 
 
+Changelog: 06.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma" and "Fancy-Color-Plasma"
+----------------------------------------------------
+
+Added icon: mellowplayer.svg
+
+Icons
+---------
+
+Added new icons: apps 32, 48
+
+
 
 
