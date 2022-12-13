@@ -1087,7 +1087,7 @@ Added new icons: apps 32
 GTK Theme
 ---------
 
-Update: checkbox-checked-hover.png
+Update: checkbox-checked.png
 
 
 
