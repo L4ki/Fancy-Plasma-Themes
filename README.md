@@ -1071,6 +1071,24 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 13.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Update icon: kalarm.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32
+
+GTK Theme
+---------
+
+Update: checkbox-checked-hover.png
+
 
 
 
