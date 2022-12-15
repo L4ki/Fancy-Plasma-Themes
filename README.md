@@ -1089,6 +1089,14 @@ GTK Theme
 
 Update: checkbox-checked.png
 
+Changelog: 15.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Update icon: kalarm.svg
+
 
 
 
