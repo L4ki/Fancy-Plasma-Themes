@@ -1097,7 +1097,7 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update icon: kalarm.svg
 
-Changelog: 13.12.2022.
+Changelog: 21.12.2022.
 ----------------------
 
 Plasma Theme "Fancy-Plasma"
