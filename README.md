@@ -1097,6 +1097,19 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Update icon: kalarm.svg
 
+Changelog: 13.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added icon: jami.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Update icons: apps 64
+
 
 
 
