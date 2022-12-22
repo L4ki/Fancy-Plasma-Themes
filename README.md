@@ -1110,6 +1110,14 @@ Icons "Fancy-Dark-Icons"
 
 Update icons: apps 64
 
+Changelog: 22.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Added icon: jami.svg
+
 
 
 
