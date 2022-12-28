@@ -42,6 +42,9 @@ Screenshot:
 ![Screenshot_20221228_102747](https://user-images.githubusercontent.com/45247573/209790203-631ecf73-f701-48b2-9855-b957b00aea62.png)
 
 
+![Screenshot_20221228_103616](https://user-images.githubusercontent.com/45247573/209791209-33a14b63-bd83-4cf8-a2c0-4641c785eeb0.png)
+
+
 _________________________________________________________________________
 
 Changelog: 25.09.2021.
