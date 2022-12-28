@@ -4,6 +4,24 @@ Fancy Themes For Plasma Desktop
 
 "Fancy-Plasma": https://store.kde.org/p/1598649
 
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <h2>Donate</h2>
+    <h2>If you like my project, you can donate at:</h2>
+    <a href="https://www.paypal.com/paypalme/VesnaLazic">
+    <img src="PayPal.png" alt="PayPal" />
+    </a>
+  </body>
+</html>
+
+
+
+![Screenshot_20221228_100910](https://user-images.githubusercontent.com/45247573/209787987-ba2bd21a-bf9e-4be8-8944-cd0b9c3f557c.png)
+
+
 "Fancy-Color-Plasma" (Follows Color Scheme): https://www.pling.com/p/1807653
 
 Changelog: 25.09.2021.
