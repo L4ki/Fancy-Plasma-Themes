@@ -2,7 +2,7 @@
 
 Fancy Themes For Plasma Desktop 
 
-"Fancy-Plasma": https://store.kde.org/p/1598649
+"Fancy-Plasma", Download: https://store.kde.org/p/1598649
 
 <html>
   <head>
@@ -20,16 +20,16 @@ Fancy Themes For Plasma Desktop
 
 
 "Fancy-Plasma" Screenshot:
---------------
+-------------------------
 
 
 ![Screenshot_20221228_100910](https://user-images.githubusercontent.com/45247573/209787987-ba2bd21a-bf9e-4be8-8944-cd0b9c3f557c.png)
 
 
 
-"Fancy-Color-Plasma" (Follows Color Scheme): https://www.pling.com/p/1807653
--------------------------------------------
+"Fancy-Color-Plasma" (Follows Color Scheme)
 
+Download: https://www.pling.com/p/1807653
 
 Screenshot:
 ------------
