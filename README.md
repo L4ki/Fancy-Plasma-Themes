@@ -19,7 +19,7 @@ Fancy Themes For Plasma Desktop
 
 
 
-"Fancy-Plasma"
+"Fancy-Plasma" Screenshot:
 --------------
 
 
@@ -27,13 +27,12 @@ Fancy Themes For Plasma Desktop
 
 
 
-"Fancy-Color-Plasma" (Follows Color Scheme): 
-----------------------------------------------
-
-https://www.pling.com/p/1807653
+"Fancy-Color-Plasma" (Follows Color Scheme): https://www.pling.com/p/1807653
+-------------------------------------------
 
 
 Screenshot:
+------------
 
 
 
