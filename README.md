@@ -1160,6 +1160,19 @@ Plasma Theme "Fancy-Color-Plasma"
 
 Added icon: jami.svg
 
+Changelog: 28.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Plasma"
+--------------------------
+
+Added icons: knotes.svg, office.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32
+
 
 
 
