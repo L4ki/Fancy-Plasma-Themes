@@ -39,9 +39,10 @@ Download: https://www.pling.com/p/1807653
 Screenshot:
 ------------
 
+![Screenshot_20221228_102747](https://user-images.githubusercontent.com/45247573/209790203-631ecf73-f701-48b2-9855-b957b00aea62.png)
 
 
-
+_________________________________________________________________________
 
 Changelog: 25.09.2021.
 ----------------------
