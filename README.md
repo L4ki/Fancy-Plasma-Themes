@@ -1173,6 +1173,14 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32
 
+hangelog: 29.12.2022.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------
+
+Added icons: knotes.svg, office.svg
+
 
 
 
