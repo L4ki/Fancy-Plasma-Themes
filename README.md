@@ -1207,7 +1207,7 @@ Changelog: 13.01.2023.
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Added icon: sirikali.svg
+Added icon: emblem.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
