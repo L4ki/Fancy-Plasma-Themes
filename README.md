@@ -1240,6 +1240,19 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
+Changelog: 07.02.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icons: desktop.svg, process.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
 
 
 
