@@ -1253,13 +1253,13 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
-Changelog: 14.02.2023.
+Changelog: 21.02.2023.
 ----------------------
 
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Added icon: kdf.svg
+Added icon: ring.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
