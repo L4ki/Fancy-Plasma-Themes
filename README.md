@@ -1266,6 +1266,19 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
+Changelog: 07.03.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon:  org.rnd2.cpupower_gui.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
 
 
 
