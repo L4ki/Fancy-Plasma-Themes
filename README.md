@@ -1292,6 +1292,19 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
+Changelog: 21.03.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon:  offline.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
 
 
 
