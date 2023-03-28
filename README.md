@@ -1305,6 +1305,24 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
+Changelog: 28.03.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon:  plasma.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update:  tab-vert-gap.png
+
 
 
 
