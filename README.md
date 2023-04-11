@@ -1336,6 +1336,19 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
+Changelog: 04.04.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon:  corectrl.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
 
 
 
