@@ -1336,7 +1336,7 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
-Changelog: 04.04.2023.
+Changelog: 11.04.2023.
 ----------------------
 
 Plasma Theme "Fancy-Color-Plasma"
