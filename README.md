@@ -1367,6 +1367,24 @@ GTK-Theme
 
 Update:  tab-up-active.png
 
+Changelog: 25.04.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update icon: desktop.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Added: gtk-4.0
+
 
 
 
