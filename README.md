@@ -1385,6 +1385,23 @@ GTK-Theme
 
 Added: gtk-4.0
 
+Changelog: 02.05.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: listitem.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: focus.png
 
 
 
