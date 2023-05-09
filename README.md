@@ -1403,5 +1403,23 @@ GTK-Theme
 
 Update: focus.png
 
+Changelog: 09.05.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: viewitem.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: frame.png
+
 
 
