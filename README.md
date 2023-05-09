@@ -1409,7 +1409,7 @@ Changelog: 09.05.2023.
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Update widget: viewitem.svg
+Update widget: line.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
