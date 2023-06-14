@@ -1490,6 +1490,25 @@ GTK-Theme
 Update: handle-vert.png
 
 
+Changelog: 14.06.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: onboard.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+
 
 
 
