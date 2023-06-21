@@ -1509,6 +1509,30 @@ GTK-Theme
 Update: gtkrc
 
 
+Changelog: 21.06.2023.
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update: metadata.desktop
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: tab-left-active.png, tab-right-active.png
+
+
 
 
 
