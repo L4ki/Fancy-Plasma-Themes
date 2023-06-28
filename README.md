@@ -1551,6 +1551,11 @@ GTK-Theme
 
 Update: line.png
 
+Aurorae Theme "Fancy-Aurorae"
+----------------------------
+
+Update: decoration.svg
+
 
 
 
