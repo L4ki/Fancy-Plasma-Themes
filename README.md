@@ -1533,6 +1533,24 @@ GTK-Theme
 Update: tab-left-active.png, tab-right-active.png
 
 
+Changelog: 28.06.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: tasks.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: line.png
+
 
 
 
