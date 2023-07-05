@@ -1556,6 +1556,23 @@ Aurorae Theme "Fancy-Aurorae"
 
 Update: decoration.svg
 
+Changelog: 05.07.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icont: thunderbird.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: gtk-3.0
 
 
 
