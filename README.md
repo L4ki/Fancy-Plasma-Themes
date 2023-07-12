@@ -1574,5 +1574,23 @@ GTK-Theme
 
 Update: gtk-3.0
 
+Changelog: 12.07.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: translucentbackground.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: bullet-symbolic.svg
+
 
 
