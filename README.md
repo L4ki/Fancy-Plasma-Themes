@@ -1598,7 +1598,7 @@ Changelog: 19.07.2023.
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Added icont: microphone.svg
+Added icon: microphone.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
