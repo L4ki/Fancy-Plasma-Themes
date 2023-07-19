@@ -1592,5 +1592,23 @@ GTK-Theme
 
 Update: bullet-symbolic.svg
 
+Changelog: 19.07.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icont: microphone.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: checkmark-symbolic.svg
+
 
 
