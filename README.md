@@ -1690,7 +1690,7 @@ Changelog: 23.08.2023.
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Added icons: lutris.svg
+Added icon: lutris.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
