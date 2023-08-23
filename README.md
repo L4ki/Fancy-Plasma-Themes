@@ -1684,5 +1684,23 @@ GTK-Theme
 Update: hacks-dark.rc
 
 
+Changelog: 23.08.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icons: lutris.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
 
 
