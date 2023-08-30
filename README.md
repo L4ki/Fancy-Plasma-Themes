@@ -1702,5 +1702,23 @@ GTK-Theme
 
 Update: gtkrc
 
+Changelog: 30.08.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: image.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: tab-down-active.png
+
 
 
