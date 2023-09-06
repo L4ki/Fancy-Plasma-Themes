@@ -1720,5 +1720,23 @@ GTK-Theme
 
 Update: tab-down-active.png
 
+Changelog: 06.9.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added: wind-arrows.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: border.png
+
 
 
