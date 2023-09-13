@@ -1739,4 +1739,23 @@ GTK-Theme
 Update: border.png
 
 
+Changelog: 13.9.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: lineedit.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: frame-notebook.png
+
+
 
