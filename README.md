@@ -1757,5 +1757,23 @@ GTK-Theme
 
 Update: frame-notebook.png
 
+Changelog: 20.9.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: veracrypt.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: menu-border.png
+
 
 
