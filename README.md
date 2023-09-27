@@ -1775,5 +1775,23 @@ GTK-Theme
 
 Update: menu-border.png
 
+Changelog: 27.9.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: ime.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: frame-inline.png
+
 
 
