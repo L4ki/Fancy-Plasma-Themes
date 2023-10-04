@@ -1794,4 +1794,23 @@ GTK-Theme
 Update: frame-inline.png
 
 
+Changelog: 04.10.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: strawberry.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: handle.png
+
+
 
