@@ -1812,5 +1812,23 @@ GTK-Theme
 
 Update: handle.png
 
+Changelog: 11.10.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: transform.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: focus.png
+
 
 
