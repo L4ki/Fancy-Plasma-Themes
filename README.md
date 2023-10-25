@@ -1848,6 +1848,24 @@ GTK-Theme
 
 Update: frame.png
 
+Changelog: 25.10.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icons: krusader_root.svg, krusader_user.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: treeview-separator-ltr.png
+
 
 
 
