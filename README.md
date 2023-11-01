@@ -1866,6 +1866,24 @@ GTK-Theme
 
 Update: treeview-separator-ltr.png
 
+Changelog: 01.11.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: panel-bacground.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
 
 
 
