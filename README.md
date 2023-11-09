@@ -1884,6 +1884,24 @@ GTK-Theme
 
 Update: gtkrc
 
+Changelog: 09.11.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: search.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: treeview-separator-rtl.png
+
 
 
 
