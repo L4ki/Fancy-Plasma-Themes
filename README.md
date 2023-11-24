@@ -1920,6 +1920,24 @@ GTK-Theme
 
 Update: progressbar-vert.png
 
+Changelog: 24.11.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: background.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: progressbar-horz-trough.png
+
 
 
 
