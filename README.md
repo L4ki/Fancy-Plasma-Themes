@@ -1938,6 +1938,24 @@ GTK-Theme
 
 Update: progressbar-horz-trough.png
 
+Changelog: 01.12.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: bar_meter_horizontal.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: progressbar-vert-trough.png
+
 
 
 
