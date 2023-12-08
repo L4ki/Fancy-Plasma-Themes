@@ -1956,6 +1956,24 @@ GTK-Theme
 
 Update: progressbar-vert-trough.png
 
+Changelog: 08.12.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: telegram.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+----------
+
+Update: styles
+
 
 
 
