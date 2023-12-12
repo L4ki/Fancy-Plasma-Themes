@@ -1957,6 +1957,7 @@ GTK-Theme
 Update: progressbar-vert-trough.png
 
 Changelog: 08.12.2023.
+---------------------
 
 GTK-Theme
 ----------
