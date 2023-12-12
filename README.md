@@ -1956,6 +1956,13 @@ GTK-Theme
 
 Update: progressbar-vert-trough.png
 
+Changelog: 08.12.2023.
+
+GTK-Theme
+----------
+
+Update: styles
+
 Changelog: 12.12.2023.
 ----------------------
 
@@ -1969,10 +1976,10 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 32, 48
 
-GTK-Theme
-----------
+Aurorae Themes
+--------------
 
-Update: styles
+Update: Auroraerc
 
 
 
