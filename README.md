@@ -1956,7 +1956,7 @@ GTK-Theme
 
 Update: progressbar-vert-trough.png
 
-Changelog: 08.12.2023.
+Changelog: 12.12.2023.
 ----------------------
 
 Plasma Theme "Fancy-Color-Plasma"
