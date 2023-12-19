@@ -1982,6 +1982,23 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 19.12.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: radiobutton.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: Auroraerc
 
 
 
