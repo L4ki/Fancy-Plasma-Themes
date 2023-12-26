@@ -2000,5 +2000,23 @@ Aurorae Themes
 
 Update: Auroraerc
 
+Changelog: 26.12.2023.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: skype.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
 
 
