@@ -2018,5 +2018,23 @@ Aurorae Themes
 
 Update: shade.svg
 
+Changelog: 02.01.2024.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Update widget: switch.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
+
 
 
