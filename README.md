@@ -2036,5 +2036,20 @@ Aurorae Themes
 
 Update: alldesktops.svg
 
+Changelog: 10.01.2024.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: accessories.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 48
+
+
+
 
 
