@@ -2049,6 +2049,24 @@ Icons "Fancy-Dark-Icons"
 
 Added new icons: apps 48
 
+Changelog: 17.01.2024.
+----------------------
+
+Plasma Theme "Fancy-Color-Plasma"
+--------------------------------
+
+Added icon: solaar.svg
+
+Icons "Fancy-Dark-Icons"
+-----------------------
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
 
 
 
