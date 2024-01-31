@@ -54,13 +54,13 @@ Screenshot:
 _________________________________________________________________________
 
 
-Changelog: 24.01.2024.
+Changelog: 31.01.2024.
 ----------------------
 
 Plasma Theme "Fancy-Color-Plasma"
 --------------------------------
 
-Update icon: telegram.svg
+Update widget: action-overlays.svg
 
 Icons "Fancy-Dark-Icons"
 -----------------------
@@ -70,7 +70,7 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: restore.svg
+Update: keepabove.svg
 
 
 
