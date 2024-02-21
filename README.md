@@ -33,7 +33,7 @@ https://store.kde.org/p/1598649
 
 
 
-"Fancy-Plasma" Screenshot:
+"Fancy-Plasma" Screenshots:
 -------------------------
 
 
@@ -45,7 +45,7 @@ https://store.kde.org/p/1598649
 "Fancy-Color-Plasma" (Follows Color Scheme)
 -------------------------------------------
 
-Screenshot:
+Screenshots:
 ------------
 
 ![Screenshot_20221228_102747](https://user-images.githubusercontent.com/45247573/209790203-631ecf73-f701-48b2-9855-b957b00aea62.png)
