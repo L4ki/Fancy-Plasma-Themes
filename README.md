@@ -45,11 +45,6 @@ https://store.kde.org/p/1598649
 "Fancy-Color-Plasma" (Follows Color Scheme)
 -------------------------------------------
 
-Download:
-----------
-
-https://www.pling.com/p/1807653
-
 Screenshot:
 ------------
 
