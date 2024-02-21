@@ -2,6 +2,14 @@
 
 Fancy Themes For Plasma Desktop 
 
+"Fancy-Color-Plasma"
+--------------------
+
+Download:
+---------
+
+https://www.pling.com/p/1807653
+
 "Fancy-Plasma"
 --------------
 
