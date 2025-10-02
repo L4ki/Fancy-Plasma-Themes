@@ -57,23 +57,16 @@ Screenshots:
 _________________________________________________________________________
 
 
-Changelog: 28.02.2024.
+Changelog: 02.10.2025.
 ----------------------
 
-Plasma Theme "Fancy-Color-Plasma"
---------------------------------
-
-Update widget: background.svg (dialogs)
 
 Icons "Fancy-Dark-Icons"
 -----------------------
 
 Added new icons: apps 48
 
-Aurorae Themes
---------------
 
-Update: help.svg
 
 
 
