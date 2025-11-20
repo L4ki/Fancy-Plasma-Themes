@@ -57,14 +57,14 @@ Screenshots:
 _________________________________________________________________________
 
 
-Changelog: 13.11.2025.
+Changelog: 20.11.2025.
 ----------------------
 
 
 Icons "Fancy-Dark-Icons"
 -----------------------
 
-Added new icons: apps 24
+Added new icons: apps 32
 
 
 
